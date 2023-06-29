@@ -1,0 +1,1597 @@
+{\rtf1\ansi\ansicpg1251\cocoartf2639
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fnil\fcharset0 .NewYork-Regular;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww22560\viewh8400\viewkind0
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 array(\
+	'stands'=>array(\
+		'2'=>array(\
+			'id'=>2,\
+			'number'=>'2',\
+			'area'=>'2 \uc0\u1084 ',\
+			'building_type'=>'\uc0\u1052 \u1086 \u1073 \u1080 \u1083 \u1100 \u1085 \u1072 \u1103  \u1079 \u1072 \u1089 \u1090 \u1088 \u1086 \u1081 \u1082 \u1072 ',\
+			'zone_title'=>'\uc0\u1055 \u1088 \u1080 \u1074 \u1083 \u1077 \u1095 \u1077 \u1085 \u1080 \u1077  \u1087 \u1086 \u1082 \u1091 \u1087 \u1072 \u1090 \u1077 \u1083 \u1077 \u1081 ',\
+			'zone'=>'marketing',\
+			'status'=>'free',\
+			'slots'=>array(\
+				)\
+			),\
+		'3'=>array(\
+			'id'=>3,\
+			'number'=>'3',\
+			'area'=>'2 \uc0\u1084 ',\
+			'building_type'=>'\uc0\u1052 \u1086 \u1073 \u1080 \u1083 \u1100 \u1085 \u1072 \u1103  \u1079 \u1072 \u1089 \u1090 \u1088 \u1086 \u1081 \u1082 \u1072 ',\
+			'zone_title'=>'\uc0\u1055 \u1088 \u1080 \u1074 \u1083 \u1077 \u1095 \u1077 \u1085 \u1080 \u1077  \u1087 \u1086 \u1082 \u1091 \u1087 \u1072 \u1090 \u1077 \u1083 \u1077 \u1081 ',\
+			'zone'=>'marketing',\
+			'status'=>'free',\
+			'slots'=>array(\
+				)\
+			),\
+		'5'=>array(\
+			'id'=>5,\
+			'number'=>'5',\
+			'area'=>'2 \uc0\u1084 ',\
+			'building_type'=>'\uc0\u1052 \u1086 \u1073 \u1080 \u1083 \u1100 \u1085 \u1072 \u1103  \u1079 \u1072 \u1089 \u1090 \u1088 \u1086 \u1081 \u1082 \u1072 ',\
+			'zone_title'=>'\uc0\u1055 \u1088 \u1080 \u1074 \u1083 \u1077 \u1095 \u1077 \u1085 \u1080 \u1077  \u1087 \u1086 \u1082 \u1091 \u1087 \u1072 \u1090 \u1077 \u1083 \u1077 \u1081 ',\
+			'zone'=>'marketing',\
+			'status'=>'reserved',\
+			'slots'=>array(\
+				'0'=>array(\
+					'id'=>13,\
+					'title'=>'26 \uc0\u1072 \u1087 \u1088 \u1077 \u1083 \u1103 , 27 \u1072 \u1087 \u1088 \u1077 \u1083 \u1103 , 28 \u1072 \u1087 \u1088 \u1077 \u1083 \u1103 ',\
+					'rent_cost'=>115000,\
+					'rent_cost_format'=>'115 000 
+\f1 \uc0\u8381 
+\f0 ',\
+					'build_cost'=>NULL,\
+					'build_cost_format'=>'0 
+\f1 \uc0\u8381 
+\f0 ',\
+					'status'=>'reserved',\
+					'brand'=>array(\
+						'id'=>68,\
+						'title'=>'IMSHOP',\
+						'site'=>'https://imshop.io',\
+						'd_short'=>'\uc0\u1050 \u1088 \u1091 \u1087 \u1085 \u1077 \u1081 \u1096 \u1072 \u1103  \u1074  \u1056 \u1086 \u1089 \u1089 \u1080 \u1080  \u1082 \u1086 \u1084 \u1072 \u1085 \u1076 \u1072  \u1101 \u1082 \u1089 \u1087 \u1077 \u1088 \u1090 \u1086 \u1074  \u1087 \u1086  \u1079 \u1072 \u1087 \u1091 \u1089 \u1082 \u1091  \u1080  \u1088 \u1072 \u1079 \u1074 \u1080 \u1090 \u1080 \u1102  \u1087 \u1088 \u1080 \u1083 \u1086 \u1078 \u1077 \u1085 \u1080 \u1081  \u1076 \u1083 \u1103  \u1088 \u1080 \u1090 \u1077 \u1081 \u1083 \u1072  \u1080  ecom-\u1072 ',\
+						'logotype'=>array(\
+							'id'=>116,\
+							'url'=>'https://storage.yandexcloud.net/brand-logotypes.upgrade.st/imshop/imshop-landscape-light.svg?v=1681462387'\
+							)\
+						),\
+					'reservation_company_name'=>'ImShop.io'\
+					)\
+				)\
+			),\
+		'9'=>array(\
+			'id'=>9,\
+			'number'=>'9',\
+			'area'=>'1 \uc0\u1084 ',\
+			'building_type'=>'\uc0\u1052 \u1086 \u1073 \u1080 \u1083 \u1100 \u1085 \u1072 \u1103  \u1079 \u1072 \u1089 \u1090 \u1088 \u1086 \u1081 \u1082 \u1072 ',\
+			'zone_title'=>'\uc0\u1055 \u1088 \u1080 \u1074 \u1083 \u1077 \u1095 \u1077 \u1085 \u1080 \u1077  \u1087 \u1086 \u1082 \u1091 \u1087 \u1072 \u1090 \u1077 \u1083 \u1077 \u1081 ',\
+			'zone'=>'marketing',\
+			'status'=>'part',\
+			'slots'=>array(\
+				'0'=>array(\
+					'id'=>26,\
+					'title'=>'27 \uc0\u1072 \u1087 \u1088 \u1077 \u1083 \u1103 , 28 \u1072 \u1087 \u1088 \u1077 \u1083 \u1103 ',\
+					'rent_cost'=>90000,\
+					'rent_cost_format'=>'90 000 
+\f1 \uc0\u8381 
+\f0 ',\
+					'build_cost'=>NULL,\
+					'build_cost_format'=>'0 
+\f1 \uc0\u8381 
+\f0 ',\
+					'status'=>'reserved',\
+					'brand'=>array(\
+						'id'=>10,\
+						'title'=>'\uc0\u1044 \u1086 \u1083 \u1103 \u1084 \u1080 ',\
+						'site'=>'https://dolyame.ru',\
+						'd_short'=>'\uc0\u1057 \u1077 \u1088 \u1074 \u1080 \u1089  \u1076 \u1083 \u1103  \u1086 \u1087 \u1083 \u1072 \u1090 \u1099  \u1087 \u1086 \u1082 \u1091 \u1087 \u1086 \u1082  \u1095 \u1072 \u1089 \u1090 \u1103 \u1084 \u1080 ',\
+						'logotype'=>array(\
+							'id'=>38,\
+							'url'=>'https://storage.yandexcloud.net/brand-logotypes.upgrade.st/doliami/landscape-light.svg'\
+							)\
+						),\
+					'reservation_company_name'=>'\uc0\u1044 \u1086 \u1083 \u1103 \u1084 \u1080 '\
+					)\
+				)\
+			),\
+		'10'=>array(\
+			'id'=>10,\
+			'number'=>'10',\
+			'area'=>'1 \uc0\u1084 ',\
+			'building_type'=>'\uc0\u1052 \u1086 \u1073 \u1080 \u1083 \u1100 \u1085 \u1072 \u1103  \u1079 \u1072 \u1089 \u1090 \u1088 \u1086 \u1081 \u1082 \u1072 ',\
+			'zone_title'=>'\uc0\u1055 \u1088 \u1080 \u1074 \u1083 \u1077 \u1095 \u1077 \u1085 \u1080 \u1077  \u1087 \u1086 \u1082 \u1091 \u1087 \u1072 \u1090 \u1077 \u1083 \u1077 \u1081 ',\
+			'zone'=>'marketing',\
+			'status'=>'reserved',\
+			'slots'=>array(\
+				'0'=>array(\
+					'id'=>28,\
+					'title'=>'26 \uc0\u1072 \u1087 \u1088 \u1077 \u1083 \u1103 ',\
+					'rent_cost'=>90000,\
+					'rent_cost_format'=>'90 000 
+\f1 \uc0\u8381 
+\f0 ',\
+					'build_cost'=>NULL,\
+					'build_cost_format'=>'0 
+\f1 \uc0\u8381 
+\f0 ',\
+					'status'=>'reserved',\
+					'brand'=>array(\
+						'id'=>49,\
+						'title'=>'\uc0\u1060 \u1040 \u1056 \u1052 \u1055 \u1056 \u1045 \u1044 ',\
+						'site'=>'https://farmpred.ru',\
+						'd_short'=>'\uc0\u1060 \u1040 \u1056 \u1052 \u1055 \u1056 \u1045 \u1044 -\u1056 \u1086 \u1089 \u1089 \u1080 \u1081 \u1089 \u1082 \u1072 \u1103  CRM-\u1087 \u1083 \u1072 \u1090 \u1092 \u1086 \u1088 \u1084 \u1072  \u1076 \u1083 \u1103  \u1088 \u1072 \u1073 \u1086 \u1090 \u1099  \u1087 \u1086 \u1083 \u1077 \u1074 \u1099 \u1093  \u1089 \u1086 \u1090 \u1088 \u1091 \u1076 \u1085 \u1080 \u1082 \u1086 \u1074  \u1092 \u1072 \u1088 \u1084 \u1072 \u1094 \u1077 \u1074 \u1090 \u1080 \u1095 \u1077 \u1089 \u1082 \u1080 \u1093  \u1082 \u1086 \u1084 \u1087 \u1072 \u1085 \u1080 \u1081 ',\
+						'logotype'=>array(\
+							'id'=>135,\
+							'url'=>'https://storage.yandexcloud.net/brand-logotypes.upgrade.st/farmpred/farmpred-landscape-light.png?v=1681964320'\
+							)\
+						),\
+					'reservation_company_name'=>'GETCRM'\
+					),\
+				'1'=>array(\
+					'id'=>29,\
+					'title'=>'27 \uc0\u1072 \u1087 \u1088 \u1077 \u1083 \u1103 , 28 \u1072 \u1087 \u1088 \u1077 \u1083 \u1103 ',\
+					'rent_cost'=>90000,\
+					'rent_cost_format'=>'90 000 
+\f1 \uc0\u8381 
+\f0 ',\
+					'build_cost'=>NULL,\
+					'build_cost_format'=>'0 
+\f1 \uc0\u8381 
+\f0 ',\
+					'status'=>'reserved',\
+					'brand'=>array(\
+						'id'=>10,\
+						'title'=>'\uc0\u1044 \u1086 \u1083 \u1103 \u1084 \u1080 ',\
+						'site'=>'https://dolyame.ru',\
+						'd_short'=>'\uc0\u1057 \u1077 \u1088 \u1074 \u1080 \u1089  \u1076 \u1083 \u1103  \u1086 \u1087 \u1083 \u1072 \u1090 \u1099  \u1087 \u1086 \u1082 \u1091 \u1087 \u1086 \u1082  \u1095 \u1072 \u1089 \u1090 \u1103 \u1084 \u1080 ',\
+						'logotype'=>array(\
+							'id'=>38,\
+							'url'=>'https://storage.yandexcloud.net/brand-logotypes.upgrade.st/doliami/landscape-light.svg'\
+							)\
+						),\
+					'reservation_company_name'=>'\uc0\u1044 \u1086 \u1083 \u1103 \u1084 \u1080 '\
+					)\
+				)\
+			),\
+		'11'=>array(\
+			'id'=>11,\
+			'number'=>'11',\
+			'area'=>'1 \uc0\u1084 ',\
+			'building_type'=>'\uc0\u1052 \u1086 \u1073 \u1080 \u1083 \u1100 \u1085 \u1072 \u1103  \u1079 \u1072 \u1089 \u1090 \u1088 \u1086 \u1081 \u1082 \u1072 ',\
+			'zone_title'=>'\uc0\u1055 \u1088 \u1080 \u1074 \u1083 \u1077 \u1095 \u1077 \u1085 \u1080 \u1077  \u1087 \u1086 \u1082 \u1091 \u1087 \u1072 \u1090 \u1077 \u1083 \u1077 \u1081 ',\
+			'zone'=>'marketing',\
+			'status'=>'part',\
+			'slots'=>array(\
+				'0'=>array(\
+					'id'=>31,\
+					'title'=>'26 \uc0\u1072 \u1087 \u1088 \u1077 \u1083 \u1103 ',\
+					'rent_cost'=>90000,\
+					'rent_cost_format'=>'90 000 
+\f1 \uc0\u8381 
+\f0 ',\
+					'build_cost'=>NULL,\
+					'build_cost_format'=>'0 
+\f1 \uc0\u8381 
+\f0 ',\
+					'status'=>'reserved',\
+					'brand'=>array(\
+						'id'=>49,\
+						'title'=>'\uc0\u1060 \u1040 \u1056 \u1052 \u1055 \u1056 \u1045 \u1044 ',\
+						'site'=>'https://farmpred.ru',\
+						'd_short'=>'\uc0\u1060 \u1040 \u1056 \u1052 \u1055 \u1056 \u1045 \u1044 -\u1056 \u1086 \u1089 \u1089 \u1080 \u1081 \u1089 \u1082 \u1072 \u1103  CRM-\u1087 \u1083 \u1072 \u1090 \u1092 \u1086 \u1088 \u1084 \u1072  \u1076 \u1083 \u1103  \u1088 \u1072 \u1073 \u1086 \u1090 \u1099  \u1087 \u1086 \u1083 \u1077 \u1074 \u1099 \u1093  \u1089 \u1086 \u1090 \u1088 \u1091 \u1076 \u1085 \u1080 \u1082 \u1086 \u1074  \u1092 \u1072 \u1088 \u1084 \u1072 \u1094 \u1077 \u1074 \u1090 \u1080 \u1095 \u1077 \u1089 \u1082 \u1080 \u1093  \u1082 \u1086 \u1084 \u1087 \u1072 \u1085 \u1080 \u1081 ',\
+						'logotype'=>array(\
+							'id'=>135,\
+							'url'=>'https://storage.yandexcloud.net/brand-logotypes.upgrade.st/farmpred/farmpred-landscape-light.png?v=1681964320'\
+							)\
+						),\
+					'reservation_company_name'=>'GETCRM'\
+					)\
+				)\
+			),\
+		'12'=>array(\
+			'id'=>12,\
+			'number'=>'12',\
+			'area'=>'1 \uc0\u1084 ',\
+			'building_type'=>'\uc0\u1052 \u1086 \u1073 \u1080 \u1083 \u1100 \u1085 \u1072 \u1103  \u1079 \u1072 \u1089 \u1090 \u1088 \u1086 \u1081 \u1082 \u1072 ',\
+			'zone_title'=>'\uc0\u1055 \u1088 \u1080 \u1074 \u1083 \u1077 \u1095 \u1077 \u1085 \u1080 \u1077  \u1087 \u1086 \u1082 \u1091 \u1087 \u1072 \u1090 \u1077 \u1083 \u1077 \u1081 ',\
+			'zone'=>'marketing',\
+			'status'=>'part',\
+			'slots'=>array(\
+				'0'=>array(\
+					'id'=>35,\
+					'title'=>'27 \uc0\u1072 \u1087 \u1088 \u1077 \u1083 \u1103 ',\
+					'rent_cost'=>90000,\
+					'rent_cost_format'=>'90 000 
+\f1 \uc0\u8381 
+\f0 ',\
+					'build_cost'=>NULL,\
+					'build_cost_format'=>'0 
+\f1 \uc0\u8381 
+\f0 ',\
+					'status'=>'reserved',\
+					'brand'=>array(\
+						'id'=>48,\
+						'title'=>'Tinkoff ID',\
+						'site'=>'https://',\
+						'd_short'=>'C\uc0\u1077 \u1088 \u1074 \u1080 \u1089  \u1076 \u1083 \u1103  \u1073 \u1099 \u1089 \u1090 \u1088 \u1086 \u1081  \u1080  \u1084 \u1072 \u1082 \u1089 \u1080 \u1084 \u1072 \u1083 \u1100 \u1085 \u1086 \u1081  \u1073 \u1077 \u1079 \u1086 \u1087 \u1072 \u1089 \u1085 \u1086 \u1081  \u1072 \u1074 \u1090 \u1086 \u1088 \u1080 \u1079 \u1072 \u1094 \u1080 \u1080  \u1080  \u1077 \u1076 \u1080 \u1085 \u1086 \u1075 \u1086  \u1074 \u1093 \u1086 \u1076 \u1072  \u1074  \u1083 \u1102 \u1073 \u1099 \u1093  \u1089 \u1077 \u1088 \u1074 \u1080 \u1089 \u1072 \u1093  \u1088 \u1091 \u1085 \u1077 \u1090 \u1072 ',\
+						'logotype'=>array(\
+							'id'=>94,\
+							'url'=>'https://storage.yandexcloud.net/brand-logotypes.upgrade.st/tinkoff-id/tinkoff-id-landscape-light.svg?v=1680793374'\
+							)\
+						),\
+					'reservation_company_name'=>'Tinkoff ID'\
+					),\
+				'1'=>array(\
+					'id'=>36,\
+					'title'=>'28 \uc0\u1072 \u1087 \u1088 \u1077 \u1083 \u1103 ',\
+					'rent_cost'=>90000,\
+					'rent_cost_format'=>'90 000 
+\f1 \uc0\u8381 
+\f0 ',\
+					'build_cost'=>NULL,\
+					'build_cost_format'=>'0 
+\f1 \uc0\u8381 
+\f0 ',\
+					'status'=>'reserved',\
+					'brand'=>array(\
+						'id'=>15,\
+						'title'=>'\uc0\u1050 \u1072 \u1082 \u1090 \u1091 \u1089 ',\
+						'site'=>'https://kak2c.ru',\
+						'd_short'=>'\uc0\u1050 \u1072 \u1082 \u1090 \u1091 \u1089  \'96 e-commerce \u1089 \u1077 \u1088 \u1074 \u1080 \u1089  \u1089  \u1096 \u1080 \u1088 \u1086 \u1082 \u1080 \u1084  \u1089 \u1087 \u1077 \u1082 \u1090 \u1088 \u1086 \u1084  \u1091 \u1089 \u1083 \u1091 \u1075  \u1074  \u1089 \u1092 \u1077 \u1088 \u1077  \u1086 \u1085 \u1083 \u1072 \u1081 \u1085  \u1090 \u1086 \u1088 \u1075 \u1086 \u1074 \u1083 \u1080 .',\
+						'logotype'=>array(\
+							'id'=>43,\
+							'url'=>'https://storage.yandexcloud.net/brand-logotypes.upgrade.st/kaktus/landscape-light.svg'\
+							)\
+						),\
+					'reservation_company_name'=>'\uc0\u1050 \u1072 \u1082 \u1090 \u1091 \u1089 '\
+					)\
+				)\
+			),\
+		'13'=>array(\
+			'id'=>13,\
+			'number'=>'13',\
+			'area'=>'1 \uc0\u1084 ',\
+			'building_type'=>'\uc0\u1052 \u1086 \u1073 \u1080 \u1083 \u1100 \u1085 \u1072 \u1103  \u1079 \u1072 \u1089 \u1090 \u1088 \u1086 \u1081 \u1082 \u1072 ',\
+			'zone_title'=>'\uc0\u1055 \u1088 \u1080 \u1074 \u1083 \u1077 \u1095 \u1077 \u1085 \u1080 \u1077  \u1087 \u1086 \u1082 \u1091 \u1087 \u1072 \u1090 \u1077 \u1083 \u1077 \u1081 ',\
+			'zone'=>'marketing',\
+			'status'=>'part',\
+			'slots'=>array(\
+				'0'=>array(\
+					'id'=>38,\
+					'title'=>'27 \uc0\u1072 \u1087 \u1088 \u1077 \u1083 \u1103 ',\
+					'rent_cost'=>90000,\
+					'rent_cost_format'=>'90 000 
+\f1 \uc0\u8381 
+\f0 ',\
+					'build_cost'=>NULL,\
+					'build_cost_format'=>'0 
+\f1 \uc0\u8381 
+\f0 ',\
+					'status'=>'reserved',\
+					'brand'=>array(\
+						'id'=>48,\
+						'title'=>'Tinkoff ID',\
+						'site'=>'https://',\
+						'd_short'=>'C\uc0\u1077 \u1088 \u1074 \u1080 \u1089  \u1076 \u1083 \u1103  \u1073 \u1099 \u1089 \u1090 \u1088 \u1086 \u1081  \u1080  \u1084 \u1072 \u1082 \u1089 \u1080 \u1084 \u1072 \u1083 \u1100 \u1085 \u1086 \u1081  \u1073 \u1077 \u1079 \u1086 \u1087 \u1072 \u1089 \u1085 \u1086 \u1081  \u1072 \u1074 \u1090 \u1086 \u1088 \u1080 \u1079 \u1072 \u1094 \u1080 \u1080  \u1080  \u1077 \u1076 \u1080 \u1085 \u1086 \u1075 \u1086  \u1074 \u1093 \u1086 \u1076 \u1072  \u1074  \u1083 \u1102 \u1073 \u1099 \u1093  \u1089 \u1077 \u1088 \u1074 \u1080 \u1089 \u1072 \u1093  \u1088 \u1091 \u1085 \u1077 \u1090 \u1072 ',\
+						'logotype'=>array(\
+							'id'=>94,\
+							'url'=>'https://storage.yandexcloud.net/brand-logotypes.upgrade.st/tinkoff-id/tinkoff-id-landscape-light.svg?v=1680793374'\
+							)\
+						),\
+					'reservation_company_name'=>'Tinkoff ID'\
+					),\
+				'1'=>array(\
+					'id'=>39,\
+					'title'=>'28 \uc0\u1072 \u1087 \u1088 \u1077 \u1083 \u1103 ',\
+					'rent_cost'=>90000,\
+					'rent_cost_format'=>'90 000 
+\f1 \uc0\u8381 
+\f0 ',\
+					'build_cost'=>NULL,\
+					'build_cost_format'=>'0 
+\f1 \uc0\u8381 
+\f0 ',\
+					'status'=>'reserved',\
+					'brand'=>array(\
+						'id'=>15,\
+						'title'=>'\uc0\u1050 \u1072 \u1082 \u1090 \u1091 \u1089 ',\
+						'site'=>'https://kak2c.ru',\
+						'd_short'=>'\uc0\u1050 \u1072 \u1082 \u1090 \u1091 \u1089  \'96 e-commerce \u1089 \u1077 \u1088 \u1074 \u1080 \u1089  \u1089  \u1096 \u1080 \u1088 \u1086 \u1082 \u1080 \u1084  \u1089 \u1087 \u1077 \u1082 \u1090 \u1088 \u1086 \u1084  \u1091 \u1089 \u1083 \u1091 \u1075  \u1074  \u1089 \u1092 \u1077 \u1088 \u1077  \u1086 \u1085 \u1083 \u1072 \u1081 \u1085  \u1090 \u1086 \u1088 \u1075 \u1086 \u1074 \u1083 \u1080 .',\
+						'logotype'=>array(\
+							'id'=>43,\
+							'url'=>'https://storage.yandexcloud.net/brand-logotypes.upgrade.st/kaktus/landscape-light.svg'\
+							)\
+						),\
+					'reservation_company_name'=>'\uc0\u1050 \u1072 \u1082 \u1090 \u1091 \u1089 '\
+					)\
+				)\
+			),\
+		'14'=>array(\
+			'id'=>14,\
+			'number'=>'14',\
+			'area'=>'1 \uc0\u1084 ',\
+			'building_type'=>'\uc0\u1052 \u1086 \u1073 \u1080 \u1083 \u1100 \u1085 \u1072 \u1103  \u1079 \u1072 \u1089 \u1090 \u1088 \u1086 \u1081 \u1082 \u1072 ',\
+			'zone_title'=>'\uc0\u1055 \u1088 \u1080 \u1074 \u1083 \u1077 \u1095 \u1077 \u1085 \u1080 \u1077  \u1087 \u1086 \u1082 \u1091 \u1087 \u1072 \u1090 \u1077 \u1083 \u1077 \u1081 ',\
+			'zone'=>'marketing',\
+			'status'=>'reserved',\
+			'slots'=>array(\
+				'0'=>array(\
+					'id'=>40,\
+					'title'=>'26 \uc0\u1072 \u1087 \u1088 \u1077 \u1083 \u1103 , 27 \u1072 \u1087 \u1088 \u1077 \u1083 \u1103 , 28 \u1072 \u1087 \u1088 \u1077 \u1083 \u1103 ',\
+					'rent_cost'=>90000,\
+					'rent_cost_format'=>'90 000 
+\f1 \uc0\u8381 
+\f0 ',\
+					'build_cost'=>NULL,\
+					'build_cost_format'=>'0 
+\f1 \uc0\u8381 
+\f0 ',\
+					'status'=>'reserved',\
+					'brand'=>array(\
+						'id'=>65,\
+						'title'=>'\uc0\u1052 \u1072 \u1089 \u1090 \u1077 \u1088 \u1089 \u1082 \u1072 \u1103 ',\
+						'site'=>'https://mrmsk.com',\
+						'd_short'=>'\uc0\u1044 \u1080 \u1079 \u1072 \u1081 \u1085  \u1080  \u1087 \u1088 \u1086 \u1080 \u1079 \u1074 \u1086 \u1076 \u1089 \u1090 \u1074 \u1086  \u1091 \u1087 \u1072 \u1082 \u1086 \u1074 \u1082 \u1080  \u1080  \u1088 \u1077 \u1082 \u1083 \u1072 \u1084 \u1085 \u1099 \u1093  \u1084 \u1072 \u1090 \u1077 \u1088 \u1080 \u1072 \u1083 \u1086 \u1074 . \u1057 \u1086 \u1079 \u1076 \u1072 \u1085 \u1080 \u1077  \u1083 \u1086 \u1075 \u1086 \u1090 \u1080 \u1087 \u1072  \u1080  \u1092 \u1080 \u1088 \u1084 \u1077 \u1085 \u1085 \u1086 \u1075 \u1086  \u1089 \u1090 \u1080 \u1083 \u1103 . \u1041 \u1088 \u1077 \u1085 \u1076 \u1080 \u1085 \u1075 !',\
+						'logotype'=>array(\
+							'id'=>113,\
+							'url'=>'https://storage.yandexcloud.net/brand-logotypes.upgrade.st/masterskaia/masterskaia-landscape-light.svg?v=1681382409'\
+							)\
+						),\
+					'reservation_company_name'=>'\uc0\u1052 \u1072 \u1089 \u1090 \u1077 \u1088 \u1089 \u1082 \u1072 \u1103 '\
+					)\
+				)\
+			),\
+		'15'=>array(\
+			'id'=>15,\
+			'number'=>'15',\
+			'area'=>'1 \uc0\u1084 ',\
+			'building_type'=>'\uc0\u1052 \u1086 \u1073 \u1080 \u1083 \u1100 \u1085 \u1072 \u1103  \u1079 \u1072 \u1089 \u1090 \u1088 \u1086 \u1081 \u1082 \u1072 ',\
+			'zone_title'=>'\uc0\u1055 \u1088 \u1080 \u1074 \u1083 \u1077 \u1095 \u1077 \u1085 \u1080 \u1077  \u1087 \u1086 \u1082 \u1091 \u1087 \u1072 \u1090 \u1077 \u1083 \u1077 \u1081 ',\
+			'zone'=>'marketing',\
+			'status'=>'part',\
+			'slots'=>array(\
+				'0'=>array(\
+					'id'=>44,\
+					'title'=>'27 \uc0\u1072 \u1087 \u1088 \u1077 \u1083 \u1103 ',\
+					'rent_cost'=>90000,\
+					'rent_cost_format'=>'90 000 
+\f1 \uc0\u8381 
+\f0 ',\
+					'build_cost'=>NULL,\
+					'build_cost_format'=>'0 
+\f1 \uc0\u8381 
+\f0 ',\
+					'status'=>'reserved',\
+					'brand'=>array(\
+						'id'=>87,\
+						'title'=>'\uc0\u1040 \u1091 \u1090 \u1089 \u1086 \u1088 \u1089 \u1080 \u1085 \u1075 \u1086 \u1074 \u1099 \u1081  \u1082 \u1086 \u1085 \u1090 \u1072 \u1082 \u1090 \u1085 \u1099 \u1081  \u1094 \u1077 \u1085 \u1090 \u1088  \u1054 \u1054 \u1054  "\u1055 \u1088 \u1086 \u1089 \u1077 \u1088 \u1074 \u1080 \u1089 "',\
+						'site'=>'https://',\
+						'd_short'=>NULL,\
+						'logotype'=>array(\
+							'id'=>138,\
+							'url'=>'https://storage.yandexcloud.net/brand-logotypes.upgrade.st/autsorsingovyi-kontaktnyi-centr-ooo-proservis/autsorsingovyi-kontaktnyi-centr-ooo-proservis-landscape-light.svg?v=1682343273'\
+							)\
+						),\
+					'reservation_company_name'=>''\
+					),\
+				'1'=>array(\
+					'id'=>45,\
+					'title'=>'28 \uc0\u1072 \u1087 \u1088 \u1077 \u1083 \u1103 ',\
+					'rent_cost'=>90000,\
+					'rent_cost_format'=>'90 000 
+\f1 \uc0\u8381 
+\f0 ',\
+					'build_cost'=>NULL,\
+					'build_cost_format'=>'0 
+\f1 \uc0\u8381 
+\f0 ',\
+					'status'=>'reserved',\
+					'brand'=>array(\
+						'id'=>59,\
+						'title'=>'Market Papa',\
+						'site'=>'https://marketpapa.ru',\
+						'd_short'=>'\uc0\u1050 \u1086 \u1084 \u1087 \u1083 \u1077 \u1082 \u1089 \u1085 \u1099 \u1081  \u1080 \u1085 \u1089 \u1090 \u1088 \u1091 \u1084 \u1077 \u1085 \u1090  \u1091 \u1087 \u1088 \u1072 \u1074 \u1083 \u1077 \u1085 \u1080 \u1103  \u1088 \u1077 \u1082 \u1083 \u1072 \u1084 \u1086 \u1081  \u1080  \u1072 \u1085 \u1072 \u1083 \u1080 \u1090 \u1080 \u1082 \u1080  \u1085 \u1072  Wildberries',\
+						'logotype'=>array(\
+							'id'=>107,\
+							'url'=>'https://storage.yandexcloud.net/brand-logotypes.upgrade.st/market-papa/market-papa-landscape-light.svg?v=1681285590'\
+							)\
+						),\
+					'reservation_company_name'=>'\uc0\u1052 \u1072 \u1088 \u1082 \u1077 \u1090  \u1055 \u1072 \u1087 \u1072 '\
+					)\
+				)\
+			),\
+		'16'=>array(\
+			'id'=>16,\
+			'number'=>'16',\
+			'area'=>'1 \uc0\u1084 ',\
+			'building_type'=>'\uc0\u1052 \u1086 \u1073 \u1080 \u1083 \u1100 \u1085 \u1072 \u1103  \u1079 \u1072 \u1089 \u1090 \u1088 \u1086 \u1081 \u1082 \u1072 ',\
+			'zone_title'=>'\uc0\u1055 \u1088 \u1080 \u1074 \u1083 \u1077 \u1095 \u1077 \u1085 \u1080 \u1077  \u1087 \u1086 \u1082 \u1091 \u1087 \u1072 \u1090 \u1077 \u1083 \u1077 \u1081 ',\
+			'zone'=>'marketing',\
+			'status'=>'part',\
+			'slots'=>array(\
+				'0'=>array(\
+					'id'=>46,\
+					'title'=>'26 \uc0\u1072 \u1087 \u1088 \u1077 \u1083 \u1103 , 27 \u1072 \u1087 \u1088 \u1077 \u1083 \u1103 ',\
+					'rent_cost'=>90000,\
+					'rent_cost_format'=>'90 000 
+\f1 \uc0\u8381 
+\f0 ',\
+					'build_cost'=>NULL,\
+					'build_cost_format'=>'0 
+\f1 \uc0\u8381 
+\f0 ',\
+					'status'=>'reserved',\
+					'brand'=>array(\
+						'id'=>7,\
+						'title'=>'Speechmate',\
+						'site'=>'https://speechmate.ru',\
+						'd_short'=>'\uc0\u1040 \u1091 \u1076 \u1080 \u1086 \u1073 \u1077 \u1081 \u1076 \u1078 \
+\uc0\u1076 \u1083 \u1103  \u1088 \u1086 \u1089 \u1090 \u1072  \u1086 \u1092 \u1092 \u1083 \u1072 \u1081 \u1085  \u1087 \u1088 \u1086 \u1076 \u1072 \u1078 ',\
+						'logotype'=>array(\
+							'id'=>36,\
+							'url'=>'https://storage.yandexcloud.net/brand-logotypes.upgrade.st/speechmate/landscape-light.svg'\
+							)\
+						),\
+					'reservation_company_name'=>'Speechmate'\
+					)\
+				)\
+			),\
+		'17'=>array(\
+			'id'=>17,\
+			'number'=>'17',\
+			'area'=>'1 \uc0\u1084 ',\
+			'building_type'=>'\uc0\u1052 \u1086 \u1073 \u1080 \u1083 \u1100 \u1085 \u1072 \u1103  \u1079 \u1072 \u1089 \u1090 \u1088 \u1086 \u1081 \u1082 \u1072 ',\
+			'zone_title'=>'\uc0\u1055 \u1088 \u1080 \u1074 \u1083 \u1077 \u1095 \u1077 \u1085 \u1080 \u1077  \u1087 \u1086 \u1082 \u1091 \u1087 \u1072 \u1090 \u1077 \u1083 \u1077 \u1081 ',\
+			'zone'=>'marketing',\
+			'status'=>'part',\
+			'slots'=>array(\
+				'0'=>array(\
+					'id'=>49,\
+					'title'=>'26 \uc0\u1072 \u1087 \u1088 \u1077 \u1083 \u1103 , 27 \u1072 \u1087 \u1088 \u1077 \u1083 \u1103 ',\
+					'rent_cost'=>90000,\
+					'rent_cost_format'=>'90 000 
+\f1 \uc0\u8381 
+\f0 ',\
+					'build_cost'=>NULL,\
+					'build_cost_format'=>'0 
+\f1 \uc0\u8381 
+\f0 ',\
+					'status'=>'reserved',\
+					'brand'=>array(\
+						'id'=>7,\
+						'title'=>'Speechmate',\
+						'site'=>'https://speechmate.ru',\
+						'd_short'=>'\uc0\u1040 \u1091 \u1076 \u1080 \u1086 \u1073 \u1077 \u1081 \u1076 \u1078 \
+\uc0\u1076 \u1083 \u1103  \u1088 \u1086 \u1089 \u1090 \u1072  \u1086 \u1092 \u1092 \u1083 \u1072 \u1081 \u1085  \u1087 \u1088 \u1086 \u1076 \u1072 \u1078 ',\
+						'logotype'=>array(\
+							'id'=>36,\
+							'url'=>'https://storage.yandexcloud.net/brand-logotypes.upgrade.st/speechmate/landscape-light.svg'\
+							)\
+						),\
+					'reservation_company_name'=>'Speechmate'\
+					)\
+				)\
+			),\
+		'18'=>array(\
+			'id'=>18,\
+			'number'=>'18',\
+			'area'=>'1 \uc0\u1084 ',\
+			'building_type'=>'\uc0\u1052 \u1086 \u1073 \u1080 \u1083 \u1100 \u1085 \u1072 \u1103  \u1079 \u1072 \u1089 \u1090 \u1088 \u1086 \u1081 \u1082 \u1072 ',\
+			'zone_title'=>'\uc0\u1055 \u1088 \u1080 \u1074 \u1083 \u1077 \u1095 \u1077 \u1085 \u1080 \u1077  \u1087 \u1086 \u1082 \u1091 \u1087 \u1072 \u1090 \u1077 \u1083 \u1077 \u1081 ',\
+			'zone'=>'marketing',\
+			'status'=>'part',\
+			'slots'=>array(\
+				'0'=>array(\
+					'id'=>54,\
+					'title'=>'28 \uc0\u1072 \u1087 \u1088 \u1077 \u1083 \u1103 ',\
+					'rent_cost'=>90000,\
+					'rent_cost_format'=>'90 000 
+\f1 \uc0\u8381 
+\f0 ',\
+					'build_cost'=>NULL,\
+					'build_cost_format'=>'0 
+\f1 \uc0\u8381 
+\f0 ',\
+					'status'=>'reserved',\
+					'brand'=>array(\
+						'id'=>28,\
+						'title'=>'\uc0\u1052 \u1077 \u1088 \u1082 \u1072 \u1090 \u1091 \u1089 ',\
+						'site'=>'https://merkatys.ru',\
+						'd_short'=>'\uc0\u1064 \u1082 \u1086 \u1083 \u1072  \u1087 \u1086  \u1084 \u1072 \u1088 \u1082 \u1077 \u1090 \u1087 \u1083 \u1077 \u1081 \u1089 \u1072 \u1084  \u1076 \u1083 \u1103  \u1089 \u1077 \u1083 \u1083 \u1077 \u1088 \u1086 \u1074 , \u1087 \u1088 \u1077 \u1076 \u1087 \u1088 \u1080 \u1085 \u1080 \u1084 \u1072 \u1090 \u1077 \u1083 \u1077 \u1081 , \u1087 \u1088 \u1086 \u1080 \u1079 \u1074 \u1086 \u1076 \u1080 \u1090 \u1077 \u1083 \u1077 \u1081 , \u1087 \u1086 \u1089 \u1090 \u1072 \u1074 \u1097 \u1080 \u1082 \u1086 \u1074  \u1080  \u1084 \u1077 \u1085 \u1077 \u1076 \u1078 \u1077 \u1088 \u1086 \u1074 ',\
+						'logotype'=>array(\
+							'id'=>66,\
+							'url'=>'https://storage.yandexcloud.net/brand-logotypes.upgrade.st/merkatus/landscape-light.svg'\
+							)\
+						),\
+					'reservation_company_name'=>'\uc0\u1051 \u1077 \u1086  \u1064 \u1077 \u1074 \u1095 \u1077 \u1085 \u1082 \u1086 '\
+					)\
+				)\
+			),\
+		'19'=>array(\
+			'id'=>19,\
+			'number'=>'19',\
+			'area'=>'1 \uc0\u1084 ',\
+			'building_type'=>'\uc0\u1052 \u1086 \u1073 \u1080 \u1083 \u1100 \u1085 \u1072 \u1103  \u1079 \u1072 \u1089 \u1090 \u1088 \u1086 \u1081 \u1082 \u1072 ',\
+			'zone_title'=>'\uc0\u1055 \u1088 \u1080 \u1074 \u1083 \u1077 \u1095 \u1077 \u1085 \u1080 \u1077  \u1087 \u1086 \u1082 \u1091 \u1087 \u1072 \u1090 \u1077 \u1083 \u1077 \u1081 ',\
+			'zone'=>'marketing',\
+			'status'=>'part',\
+			'slots'=>array(\
+				'0'=>array(\
+					'id'=>55,\
+					'title'=>'26 \uc0\u1072 \u1087 \u1088 \u1077 \u1083 \u1103 ',\
+					'rent_cost'=>90000,\
+					'rent_cost_format'=>'90 000 
+\f1 \uc0\u8381 
+\f0 ',\
+					'build_cost'=>NULL,\
+					'build_cost_format'=>'0 
+\f1 \uc0\u8381 
+\f0 ',\
+					'status'=>'reserved',\
+					'brand'=>array(\
+						'id'=>18,\
+						'title'=>'Kokoc Group',\
+						'site'=>'https://kokocgroup.ru',\
+						'd_short'=>'\uc0\u1043 \u1088 \u1091 \u1087 \u1087 \u1072  \u1082 \u1086 \u1084 \u1087 \u1072 \u1085 \u1080 \u1081 , \u1086 \u1073 \u1098 \u1077 \u1076 \u1080 \u1085 \u1103 \u1102 \u1097 \u1072 \u1103  \u1072 \u1075 \u1077 \u1085 \u1090 \u1089 \u1090 \u1074 \u1072  \u1080  \u1089 \u1077 \u1088 \u1074 \u1080 \u1089 \u1099  \u1080 \u1085 \u1090 \u1077 \u1088 \u1085 \u1077 \u1090 -\u1084 \u1072 \u1088 \u1082 \u1077 \u1090 \u1080 \u1085 \u1075 \u1072 ',\
+						'logotype'=>array(\
+							'id'=>48,\
+							'url'=>'https://storage.yandexcloud.net/brand-logotypes.upgrade.st/kokoc-group/landscape-light.svg'\
+							)\
+						),\
+					'reservation_company_name'=>'\uc0\u1050 \u1086 \u1082 \u1086 \u1089  \u1075 \u1088 \u1091 \u1087 \u1087 '\
+					),\
+				'1'=>array(\
+					'id'=>57,\
+					'title'=>'28 \uc0\u1072 \u1087 \u1088 \u1077 \u1083 \u1103 ',\
+					'rent_cost'=>90000,\
+					'rent_cost_format'=>'90 000 
+\f1 \uc0\u8381 
+\f0 ',\
+					'build_cost'=>NULL,\
+					'build_cost_format'=>'0 
+\f1 \uc0\u8381 
+\f0 ',\
+					'status'=>'reserved',\
+					'brand'=>array(\
+						'id'=>28,\
+						'title'=>'\uc0\u1052 \u1077 \u1088 \u1082 \u1072 \u1090 \u1091 \u1089 ',\
+						'site'=>'https://merkatys.ru',\
+						'd_short'=>'\uc0\u1064 \u1082 \u1086 \u1083 \u1072  \u1087 \u1086  \u1084 \u1072 \u1088 \u1082 \u1077 \u1090 \u1087 \u1083 \u1077 \u1081 \u1089 \u1072 \u1084  \u1076 \u1083 \u1103  \u1089 \u1077 \u1083 \u1083 \u1077 \u1088 \u1086 \u1074 , \u1087 \u1088 \u1077 \u1076 \u1087 \u1088 \u1080 \u1085 \u1080 \u1084 \u1072 \u1090 \u1077 \u1083 \u1077 \u1081 , \u1087 \u1088 \u1086 \u1080 \u1079 \u1074 \u1086 \u1076 \u1080 \u1090 \u1077 \u1083 \u1077 \u1081 , \u1087 \u1086 \u1089 \u1090 \u1072 \u1074 \u1097 \u1080 \u1082 \u1086 \u1074  \u1080  \u1084 \u1077 \u1085 \u1077 \u1076 \u1078 \u1077 \u1088 \u1086 \u1074 ',\
+						'logotype'=>array(\
+							'id'=>66,\
+							'url'=>'https://storage.yandexcloud.net/brand-logotypes.upgrade.st/merkatus/landscape-light.svg'\
+							)\
+						),\
+					'reservation_company_name'=>'\uc0\u1051 \u1077 \u1086  \u1064 \u1077 \u1074 \u1095 \u1077 \u1085 \u1082 \u1086 '\
+					)\
+				)\
+			),\
+		'20'=>array(\
+			'id'=>20,\
+			'number'=>'20',\
+			'area'=>'3 \uc0\u1084 ',\
+			'building_type'=>'\uc0\u1052 \u1086 \u1073 \u1080 \u1083 \u1100 \u1085 \u1072 \u1103  \u1079 \u1072 \u1089 \u1090 \u1088 \u1086 \u1081 \u1082 \u1072 ',\
+			'zone_title'=>'\uc0\u1055 \u1088 \u1080 \u1074 \u1083 \u1077 \u1095 \u1077 \u1085 \u1080 \u1077  \u1087 \u1086 \u1082 \u1091 \u1087 \u1072 \u1090 \u1077 \u1083 \u1077 \u1081 ',\
+			'zone'=>'marketing',\
+			'status'=>'reserved',\
+			'slots'=>array(\
+				'0'=>array(\
+					'id'=>58,\
+					'title'=>'26 \uc0\u1072 \u1087 \u1088 \u1077 \u1083 \u1103 ',\
+					'rent_cost'=>130000,\
+					'rent_cost_format'=>'130 000 
+\f1 \uc0\u8381 
+\f0 ',\
+					'build_cost'=>NULL,\
+					'build_cost_format'=>'0 
+\f1 \uc0\u8381 
+\f0 ',\
+					'status'=>'reserved',\
+					'brand'=>array(\
+						'id'=>25,\
+						'title'=>'Diginetica',\
+						'site'=>'https://anyquery.diginetica.com',\
+						'd_short'=>'\uc0\u1059 \u1084 \u1085 \u1099 \u1081  \u1087 \u1086 \u1080 \u1089 \u1082  \u1085 \u1072  \u1089 \u1072 \u1081 \u1090 \u1077  \u1080  \u1074  \u1087 \u1088 \u1080 \u1083 \u1086 \u1078 \u1077 \u1085 \u1080 \u1080  (Sunlight, Amwine \u1080  Boombbar)',\
+						'logotype'=>array(\
+							'id'=>64,\
+							'url'=>'https://storage.yandexcloud.net/brand-logotypes.upgrade.st/diqiginetica/landscape-dark.svg'\
+							)\
+						),\
+					'reservation_company_name'=>'Diginetica'\
+					),\
+				'1'=>array(\
+					'id'=>59,\
+					'title'=>'27 \uc0\u1072 \u1087 \u1088 \u1077 \u1083 \u1103 ',\
+					'rent_cost'=>130000,\
+					'rent_cost_format'=>'130 000 
+\f1 \uc0\u8381 
+\f0 ',\
+					'build_cost'=>NULL,\
+					'build_cost_format'=>'0 
+\f1 \uc0\u8381 
+\f0 ',\
+					'status'=>'reserved',\
+					'brand'=>array(\
+						'id'=>38,\
+						'title'=>'\uc0\u1058 \u1080 \u1085 \u1100 \u1082 \u1086 \u1092 \u1092  \u1050 \u1088 \u1077 \u1076 \u1080 \u1090  \u1041 \u1088 \u1086 \u1082 \u1077 \u1088 ',\
+						'site'=>'https://tinkoff.ru/business/loans/',\
+						'd_short'=>'\uc0\u1057 \u1077 \u1088 \u1074 \u1080 \u1089  \u1088 \u1072 \u1089 \u1089 \u1088 \u1086 \u1095 \u1077 \u1082  \u1080  \u1082 \u1088 \u1077 \u1076 \u1080 \u1090 \u1086 \u1074  \u1076 \u1083 \u1103  \u1087 \u1086 \u1082 \u1091 \u1087 \u1072 \u1090 \u1077 \u1083 \u1077 \u1081  \u1076 \u1083 \u1103  \u1074 \u1089 \u1077 \u1093  \u1090 \u1080 \u1087 \u1086 \u1074  \u1073 \u1080 \u1079 \u1085 \u1077 \u1089 \u1072  \u1089  \u1095 \u1077 \u1082 \u1086 \u1084  \u1086 \u1090  3 \u1076 \u1086  5',\
+						'logotype'=>array(\
+							'id'=>81,\
+							'url'=>'https://storage.yandexcloud.net/brand-logotypes.upgrade.st/tinkoff-kredit-broker/landscape-light.svg?v=1680533190'\
+							)\
+						),\
+					'reservation_company_name'=>'\uc0\u1058 \u1080 \u1085 \u1100 \u1082 \u1086 \u1092 \u1092  \u1050 \u1088 \u1077 \u1076 \u1080 \u1090  \u1041 \u1088 \u1086 \u1082 \u1077 \u1088 '\
+					),\
+				'2'=>array(\
+					'id'=>60,\
+					'title'=>'28 \uc0\u1072 \u1087 \u1088 \u1077 \u1083 \u1103 ',\
+					'rent_cost'=>130000,\
+					'rent_cost_format'=>'130 000 
+\f1 \uc0\u8381 
+\f0 ',\
+					'build_cost'=>NULL,\
+					'build_cost_format'=>'0 
+\f1 \uc0\u8381 
+\f0 ',\
+					'status'=>'reserved',\
+					'brand'=>array(\
+						'id'=>35,\
+						'title'=>'\uc0\u1058 \u1080 \u1085 \u1100 \u1082 \u1086 \u1092 \u1092  \u1042 \u1099 \u1075 \u1086 \u1076 \u1072 ',\
+						'site'=>'https://',\
+						'd_short'=>'\uc0\u1055 \u1072 \u1088 \u1090 \u1085 \u1077 \u1088 \u1089 \u1082 \u1080 \u1081  \u1082 \u1101 \u1096 \u1073 \u1101 \u1082  \u1074  \u1101 \u1082 \u1086 \u1089 \u1080 \u1089 \u1090 \u1077 \u1084 \u1077  \u1058 \u1080 \u1085 \u1100 \u1082 \u1086 \u1092 \u1092 ',\
+						'logotype'=>array(\
+							'id'=>73,\
+							'url'=>'https://storage.yandexcloud.net/brand-logotypes.upgrade.st/tinkoff-vygoda/landscape-light.svg'\
+							)\
+						),\
+					'reservation_company_name'=>'\uc0\u1058 \u1080 \u1085 \u1100 \u1082 \u1086 \u1092 \u1092  \u1042 \u1099 \u1075 \u1086 \u1076 \u1072 '\
+					)\
+				)\
+			),\
+		'21'=>array(\
+			'id'=>21,\
+			'number'=>'21',\
+			'area'=>'3 \uc0\u1084 ',\
+			'building_type'=>'\uc0\u1052 \u1086 \u1073 \u1080 \u1083 \u1100 \u1085 \u1072 \u1103  \u1079 \u1072 \u1089 \u1090 \u1088 \u1086 \u1081 \u1082 \u1072 ',\
+			'zone_title'=>'\uc0\u1055 \u1088 \u1080 \u1074 \u1083 \u1077 \u1095 \u1077 \u1085 \u1080 \u1077  \u1087 \u1086 \u1082 \u1091 \u1087 \u1072 \u1090 \u1077 \u1083 \u1077 \u1081 ',\
+			'zone'=>'marketing',\
+			'status'=>'reserved',\
+			'slots'=>array(\
+				'0'=>array(\
+					'id'=>61,\
+					'title'=>'26 \uc0\u1072 \u1087 \u1088 \u1077 \u1083 \u1103 , 27 \u1072 \u1087 \u1088 \u1077 \u1083 \u1103 , 28 \u1072 \u1087 \u1088 \u1077 \u1083 \u1103 ',\
+					'rent_cost'=>130000,\
+					'rent_cost_format'=>'130 000 
+\f1 \uc0\u8381 
+\f0 ',\
+					'build_cost'=>NULL,\
+					'build_cost_format'=>'0 
+\f1 \uc0\u8381 
+\f0 ',\
+					'status'=>'reserved',\
+					'brand'=>array(\
+						'id'=>6,\
+						'title'=>'\uc0\u1057 \u1083 \u1091 \u1078 \u1073 \u1072  \u1076 \u1086 \u1089 \u1090 \u1072 \u1074 \u1082 \u1080  Dalli',\
+						'site'=>'https://dalli-service.com',\
+						'd_short'=>'Dalli \'97 \uc0\u1082 \u1091 \u1088 \u1100 \u1077 \u1088 \u1089 \u1082 \u1072 \u1103  \u1082 \u1086 \u1084 \u1087 \u1072 \u1085 \u1080 \u1103  \u1076 \u1083 \u1103  \u1080 \u1085 \u1090 \u1077 \u1088 \u1085 \u1077 \u1090 -\u1084 \u1072 \u1075 \u1072 \u1079 \u1080 \u1085 \u1086 \u1074  \u1080  \u1086 \u1084 \u1085 \u1080 \u1088 \u1080 \u1090 \u1077 \u1081 \u1083 \u1072 ',\
+						'logotype'=>array(\
+							'id'=>34,\
+							'url'=>'https://storage.yandexcloud.net/brand-logotypes.upgrade.st/sluzba-dostavki-dalli/landscape-light.svg'\
+							)\
+						),\
+					'reservation_company_name'=>'Dalli'\
+					)\
+				)\
+			),\
+		'22'=>array(\
+			'id'=>22,\
+			'number'=>'22',\
+			'area'=>'3 \uc0\u1084 ',\
+			'building_type'=>'\uc0\u1052 \u1086 \u1073 \u1080 \u1083 \u1100 \u1085 \u1072 \u1103  \u1079 \u1072 \u1089 \u1090 \u1088 \u1086 \u1081 \u1082 \u1072 ',\
+			'zone_title'=>'\uc0\u1055 \u1088 \u1080 \u1074 \u1083 \u1077 \u1095 \u1077 \u1085 \u1080 \u1077  \u1087 \u1086 \u1082 \u1091 \u1087 \u1072 \u1090 \u1077 \u1083 \u1077 \u1081 ',\
+			'zone'=>'marketing',\
+			'status'=>'part',\
+			'slots'=>array(\
+				'0'=>array(\
+					'id'=>66,\
+					'title'=>'28 \uc0\u1072 \u1087 \u1088 \u1077 \u1083 \u1103 ',\
+					'rent_cost'=>130000,\
+					'rent_cost_format'=>'130 000 
+\f1 \uc0\u8381 
+\f0 ',\
+					'build_cost'=>NULL,\
+					'build_cost_format'=>'0 
+\f1 \uc0\u8381 
+\f0 ',\
+					'status'=>'reserved',\
+					'brand'=>array(\
+						'id'=>9,\
+						'title'=>'Golden Duck',\
+						'site'=>'https://gduck.ru',\
+						'd_short'=>'\uc0\u1048 \u1085 \u1074 \u1077 \u1089 \u1090 \u1080 \u1094 \u1080 \u1086 \u1085 \u1085 \u1072 \u1103  \u1082 \u1086 \u1084 \u1087 \u1072 \u1085 \u1080 \u1103  \u1089  \u1086 \u1087 \u1099 \u1090 \u1086 \u1084  \u1089 \u1086 \u1079 \u1076 \u1072 \u1085 \u1080 \u1103  \u1080  \u1088 \u1072 \u1079 \u1074 \u1080 \u1090 \u1080 \u1103  \u1087 \u1088 \u1086 \u1077 \u1082 \u1090 \u1086 \u1074 \
+\uc0\u1074  \u1086 \u1073 \u1083 \u1072 \u1089 \u1090 \u1080  e-commerce',\
+						'logotype'=>array(\
+							'id'=>44,\
+							'url'=>'https://storage.yandexcloud.net/brand-logotypes.upgrade.st/golden-duck/landscape-light.svg'\
+							)\
+						),\
+					'reservation_company_name'=>'Golden Duck'\
+					)\
+				)\
+			),\
+		'23'=>array(\
+			'id'=>23,\
+			'number'=>'23',\
+			'area'=>'3 \uc0\u1084 ',\
+			'building_type'=>'\uc0\u1052 \u1086 \u1073 \u1080 \u1083 \u1100 \u1085 \u1072 \u1103  \u1079 \u1072 \u1089 \u1090 \u1088 \u1086 \u1081 \u1082 \u1072 ',\
+			'zone_title'=>'\uc0\u1055 \u1088 \u1080 \u1074 \u1083 \u1077 \u1095 \u1077 \u1085 \u1080 \u1077  \u1087 \u1086 \u1082 \u1091 \u1087 \u1072 \u1090 \u1077 \u1083 \u1077 \u1081 ',\
+			'zone'=>'marketing',\
+			'status'=>'reserved',\
+			'slots'=>array(\
+				'0'=>array(\
+					'id'=>67,\
+					'title'=>'26 \uc0\u1072 \u1087 \u1088 \u1077 \u1083 \u1103 , 27 \u1072 \u1087 \u1088 \u1077 \u1083 \u1103 , 28 \u1072 \u1087 \u1088 \u1077 \u1083 \u1103 ',\
+					'rent_cost'=>130000,\
+					'rent_cost_format'=>'130 000 
+\f1 \uc0\u8381 
+\f0 ',\
+					'build_cost'=>NULL,\
+					'build_cost_format'=>'0 
+\f1 \uc0\u8381 
+\f0 ',\
+					'status'=>'reserved',\
+					'brand'=>array(\
+						'id'=>17,\
+						'title'=>'DPD \uc0\u1074  \u1056 \u1086 \u1089 \u1089 \u1080 \u1080 ',\
+						'site'=>'https://dpd.ru',\
+						'd_short'=>'\uc0\u1042 \u1077 \u1076 \u1091 \u1097 \u1080 \u1081  \u1086 \u1087 \u1077 \u1088 \u1072 \u1090 \u1086 \u1088  \u1101 \u1082 \u1089 \u1087 \u1088 \u1077 \u1089 \u1089 -\u1076 \u1086 \u1089 \u1090 \u1072 \u1074 \u1082 \u1080  \u1080  \u1083 \u1086 \u1075 \u1080 \u1089 \u1090 \u1080 \u1082 \u1080  \u1074  \u1056 \u1086 \u1089 \u1089 \u1080 \u1080 .',\
+						'logotype'=>array(\
+							'id'=>77,\
+							'url'=>'https://storage.yandexcloud.net/brand-logotypes.upgrade.st/dpd-v-rossii/landscape-light.svg'\
+							)\
+						),\
+					'reservation_company_name'=>'DPD \uc0\u1074  \u1056 \u1086 \u1089 \u1089 \u1080 \u1080 '\
+					)\
+				)\
+			),\
+		'24'=>array(\
+			'id'=>24,\
+			'number'=>'24',\
+			'area'=>'3 \uc0\u1084 ',\
+			'building_type'=>'\uc0\u1052 \u1086 \u1073 \u1080 \u1083 \u1100 \u1085 \u1072 \u1103  \u1079 \u1072 \u1089 \u1090 \u1088 \u1086 \u1081 \u1082 \u1072 ',\
+			'zone_title'=>'\uc0\u1055 \u1088 \u1080 \u1074 \u1083 \u1077 \u1095 \u1077 \u1085 \u1080 \u1077  \u1087 \u1086 \u1082 \u1091 \u1087 \u1072 \u1090 \u1077 \u1083 \u1077 \u1081 ',\
+			'zone'=>'marketing',\
+			'status'=>'part',\
+			'slots'=>array(\
+				'0'=>array(\
+					'id'=>71,\
+					'title'=>'27 \uc0\u1072 \u1087 \u1088 \u1077 \u1083 \u1103 , 28 \u1072 \u1087 \u1088 \u1077 \u1083 \u1103 ',\
+					'rent_cost'=>130000,\
+					'rent_cost_format'=>'130 000 
+\f1 \uc0\u8381 
+\f0 ',\
+					'build_cost'=>NULL,\
+					'build_cost_format'=>'0 
+\f1 \uc0\u8381 
+\f0 ',\
+					'status'=>'reserved',\
+					'brand'=>array(\
+						'id'=>29,\
+						'title'=>'KISLOROD',\
+						'site'=>'https://o2k.ru',\
+						'd_short'=>'\uc0\u1055 \u1088 \u1086 \u1080 \u1079 \u1074 \u1086 \u1076 \u1089 \u1090 \u1074 \u1077 \u1085 \u1085 \u1086 \u1077  \u1072 \u1075 \u1077 \u1085 \u1090 \u1089 \u1090 \u1074 \u1086  \u1089  \u1092 \u1086 \u1082 \u1091 \u1089 \u1086 \u1084  \u1085 \u1072  \u1088 \u1072 \u1079 \u1088 \u1072 \u1073 \u1086 \u1090 \u1082 \u1091  \u1080  \u1088 \u1072 \u1079 \u1074 \u1080 \u1090 \u1080 \u1077  e\u1057 ommerce-\u1087 \u1088 \u1086 \u1077 \u1082 \u1090 \u1086 \u1074  \u1085 \u1072  \'ab1\u1057 -\u1041 \u1080 \u1090 \u1088 \u1080 \u1082 \u1089 \'bb.',\
+						'logotype'=>array(\
+							'id'=>87,\
+							'url'=>'https://storage.yandexcloud.net/brand-logotypes.upgrade.st/kislorod/kislorod-landscape-light.svg?v=1680698633'\
+							)\
+						),\
+					'reservation_company_name'=>'Kislorod'\
+					)\
+				)\
+			),\
+		'27'=>array(\
+			'id'=>27,\
+			'number'=>'27',\
+			'area'=>'3 \uc0\u1084 ',\
+			'building_type'=>'\uc0\u1052 \u1086 \u1073 \u1080 \u1083 \u1100 \u1085 \u1072 \u1103  \u1079 \u1072 \u1089 \u1090 \u1088 \u1086 \u1081 \u1082 \u1072 ',\
+			'zone_title'=>'\uc0\u1055 \u1088 \u1080 \u1074 \u1083 \u1077 \u1095 \u1077 \u1085 \u1080 \u1077  \u1087 \u1086 \u1082 \u1091 \u1087 \u1072 \u1090 \u1077 \u1083 \u1077 \u1081 ',\
+			'zone'=>'marketing',\
+			'status'=>'part',\
+			'slots'=>array(\
+				'0'=>array(\
+					'id'=>80,\
+					'title'=>'27 \uc0\u1072 \u1087 \u1088 \u1077 \u1083 \u1103 ',\
+					'rent_cost'=>130000,\
+					'rent_cost_format'=>'130 000 
+\f1 \uc0\u8381 
+\f0 ',\
+					'build_cost'=>NULL,\
+					'build_cost_format'=>'0 
+\f1 \uc0\u8381 
+\f0 ',\
+					'status'=>'reserved',\
+					'brand'=>array(\
+						'id'=>58,\
+						'title'=>'Metacommerce',\
+						'site'=>'https://metacommerce.ru',\
+						'd_short'=>'SaaS-\uc0\u1087 \u1083 \u1072 \u1090 \u1092 \u1086 \u1088 \u1084 \u1072  \u1084 \u1086 \u1085 \u1080 \u1090 \u1086 \u1088 \u1080 \u1085 \u1075 \u1072  \u1072 \u1089 \u1089 \u1086 \u1088 \u1090 \u1080 \u1084 \u1077 \u1085 \u1090 \u1072  \u1080  \u1094 \u1077 \u1085 , \u1089 \u1086 \u1073 \u1080 \u1088 \u1072 \u1077 \u1090  \u1076 \u1072 \u1085 \u1085 \u1099 \u1077  \u1086  \u1073 \u1086 \u1083 \u1077 \u1077  600 \u1084 \u1080 \u1083 \u1083 \u1080 \u1086 \u1085 \u1086 \u1074  \u1090 \u1086 \u1074 \u1072 \u1088 \u1086 \u1074  \u1074  \u1089 \u1091 \u1090 \u1082 \u1080 ',\
+						'logotype'=>array(\
+							'id'=>106,\
+							'url'=>'https://storage.yandexcloud.net/brand-logotypes.upgrade.st/metacommerce/metacommerce-landscape-light.svg?v=1681285529'\
+							)\
+						),\
+					'reservation_company_name'=>'\uc0\u1052 \u1077 \u1090 \u1072 \u1082 \u1086 \u1084 \u1084 \u1077 \u1088 \u1089 '\
+					)\
+				)\
+			),\
+		'28'=>array(\
+			'id'=>28,\
+			'number'=>'28',\
+			'area'=>'3 \uc0\u1084 ',\
+			'building_type'=>'\uc0\u1052 \u1086 \u1073 \u1080 \u1083 \u1100 \u1085 \u1072 \u1103  \u1079 \u1072 \u1089 \u1090 \u1088 \u1086 \u1081 \u1082 \u1072 ',\
+			'zone_title'=>'\uc0\u1055 \u1088 \u1080 \u1074 \u1083 \u1077 \u1095 \u1077 \u1085 \u1080 \u1077  \u1087 \u1086 \u1082 \u1091 \u1087 \u1072 \u1090 \u1077 \u1083 \u1077 \u1081 ',\
+			'zone'=>'marketing',\
+			'status'=>'reserved',\
+			'slots'=>array(\
+				'0'=>array(\
+					'id'=>82,\
+					'title'=>'26 \uc0\u1072 \u1087 \u1088 \u1077 \u1083 \u1103 , 27 \u1072 \u1087 \u1088 \u1077 \u1083 \u1103 , 28 \u1072 \u1087 \u1088 \u1077 \u1083 \u1103 ',\
+					'rent_cost'=>130000,\
+					'rent_cost_format'=>'130 000 
+\f1 \uc0\u8381 
+\f0 ',\
+					'build_cost'=>NULL,\
+					'build_cost_format'=>'0 
+\f1 \uc0\u8381 
+\f0 ',\
+					'status'=>'reserved',\
+					'brand'=>array(\
+						'id'=>56,\
+						'title'=>'Teleperformance',\
+						'site'=>'https://teleperformance.com',\
+						'd_short'=>'\uc0\u1050 \u1086 \u1084 \u1087 \u1072 \u1085 \u1080 \u1103 , \u1082 \u1086 \u1090 \u1086 \u1088 \u1072 \u1103  \u1087 \u1086 \u1084 \u1086 \u1075 \u1072 \u1077 \u1090  \u1073 \u1088 \u1077 \u1085 \u1076 \u1072 \u1084  \u1074 \u1079 \u1072 \u1080 \u1084 \u1086 \u1076 \u1077 \u1081 \u1089 \u1090 \u1074 \u1086 \u1074 \u1072 \u1090 \u1100  \u1089  \u1082 \u1083 \u1080 \u1077 \u1085 \u1090 \u1072 \u1084 \u1080 .',\
+						'logotype'=>array(\
+							'id'=>104,\
+							'url'=>'https://storage.yandexcloud.net/brand-logotypes.upgrade.st/teleperformance/teleperformance-landscape-light.svg?v=1681130428'\
+							)\
+						),\
+					'reservation_company_name'=>'Teleperformance'\
+					)\
+				)\
+			),\
+		'29'=>array(\
+			'id'=>29,\
+			'number'=>'29',\
+			'area'=>'3 \uc0\u1084 ',\
+			'building_type'=>'\uc0\u1052 \u1086 \u1073 \u1080 \u1083 \u1100 \u1085 \u1072 \u1103  \u1079 \u1072 \u1089 \u1090 \u1088 \u1086 \u1081 \u1082 \u1072 ',\
+			'zone_title'=>'\uc0\u1055 \u1088 \u1080 \u1074 \u1083 \u1077 \u1095 \u1077 \u1085 \u1080 \u1077  \u1087 \u1086 \u1082 \u1091 \u1087 \u1072 \u1090 \u1077 \u1083 \u1077 \u1081 ',\
+			'zone'=>'marketing',\
+			'status'=>'part',\
+			'slots'=>array(\
+				'0'=>array(\
+					'id'=>85,\
+					'title'=>'26 \uc0\u1072 \u1087 \u1088 \u1077 \u1083 \u1103 , 27 \u1072 \u1087 \u1088 \u1077 \u1083 \u1103 ',\
+					'rent_cost'=>130000,\
+					'rent_cost_format'=>'130 000 
+\f1 \uc0\u8381 
+\f0 ',\
+					'build_cost'=>NULL,\
+					'build_cost_format'=>'0 
+\f1 \uc0\u8381 
+\f0 ',\
+					'status'=>'reserved',\
+					'brand'=>array(\
+						'id'=>47,\
+						'title'=>'Garpix',\
+						'site'=>'https://garpix.com',\
+						'd_short'=>'\uc0\u1062 \u1077 \u1085 \u1090 \u1088 \u1072 \u1083 \u1100 \u1085 \u1099 \u1081  \u1089 \u1082 \u1083 \u1072 \u1076  - \u1087 \u1088 \u1086 \u1077 \u1082 \u1090  \u1074  \u1086 \u1073 \u1083 \u1072 \u1089 \u1090 \u1080  \u1088 \u1072 \u1079 \u1088 \u1072 \u1073 \u1086 \u1090 \u1082 \u1080  \u1055 \u1054  \u1080  \u1086 \u1073 \u1086 \u1088 \u1091 \u1076 \u1086 \u1074 \u1072 \u1085 \u1080 \u1103  \u1076 \u1083 \u1103  \u1083 \u1086 \u1075 \u1080 \u1089 \u1090 \u1080 \u1095 \u1077 \u1089 \u1082 \u1086 \u1081  \u1086 \u1090 \u1088 \u1072 \u1089 \u1083 \u1080 .',\
+						'logotype'=>array(\
+							'id'=>93,\
+							'url'=>'https://storage.yandexcloud.net/brand-logotypes.upgrade.st/garpix/garpix-landscape-light.svg?v=1680767183'\
+							)\
+						),\
+					'reservation_company_name'=>'GARPIX'\
+					)\
+				)\
+			),\
+		'31'=>array(\
+			'id'=>31,\
+			'number'=>'31',\
+			'area'=>'2 \uc0\u1084 ',\
+			'building_type'=>'\uc0\u1052 \u1086 \u1073 \u1080 \u1083 \u1100 \u1085 \u1072 \u1103  \u1079 \u1072 \u1089 \u1090 \u1088 \u1086 \u1081 \u1082 \u1072 ',\
+			'zone_title'=>'\uc0\u1055 \u1088 \u1080 \u1074 \u1083 \u1077 \u1095 \u1077 \u1085 \u1080 \u1077  \u1087 \u1086 \u1082 \u1091 \u1087 \u1072 \u1090 \u1077 \u1083 \u1077 \u1081 ',\
+			'zone'=>'marketing',\
+			'status'=>'part',\
+			'slots'=>array(\
+				'0'=>array(\
+					'id'=>91,\
+					'title'=>'26 \uc0\u1072 \u1087 \u1088 \u1077 \u1083 \u1103 , 27 \u1072 \u1087 \u1088 \u1077 \u1083 \u1103 ',\
+					'rent_cost'=>115000,\
+					'rent_cost_format'=>'115 000 
+\f1 \uc0\u8381 
+\f0 ',\
+					'build_cost'=>NULL,\
+					'build_cost_format'=>'0 
+\f1 \uc0\u8381 
+\f0 ',\
+					'status'=>'reserved',\
+					'brand'=>array(\
+						'id'=>26,\
+						'title'=>'Upmetric',\
+						'site'=>'https://upmetric.ru',\
+						'd_short'=>'\uc0\u1054 \u1073 \u1098 \u1077 \u1076 \u1080 \u1085 \u1103 \u1077 \u1084  \u1086 \u1092 \u1092 \u1083 \u1072 \u1081 \u1085  \u1080  \u1086 \u1085 \u1083 \u1072 \u1081 \u1085  \u1076 \u1072 \u1085 \u1085 \u1099 \u1077  \u1086  \u1087 \u1086 \u1082 \u1091 \u1087 \u1082 \u1072 \u1093  \u1080  \u1087 \u1086 \u1074 \u1077 \u1076 \u1077 \u1085 \u1080 \u1080  \u1076 \u1083 \u1103  \u1101 \u1092 \u1092 \u1077 \u1082 \u1090 \u1080 \u1074 \u1085 \u1086 \u1075 \u1086  data-driven \u1084 \u1072 \u1088 \u1082 \u1077 \u1090 \u1080 \u1085 \u1075 \u1072 ',\
+						'logotype'=>array(\
+							'id'=>128,\
+							'url'=>'https://storage.yandexcloud.net/brand-logotypes.upgrade.st/upmetric/upmetric-landscape-light.svg?v=1681800021'\
+							)\
+						),\
+					'reservation_company_name'=>'Upmetric'\
+					)\
+				)\
+			),\
+		'32'=>array(\
+			'id'=>32,\
+			'number'=>'32',\
+			'area'=>'2 \uc0\u1084 ',\
+			'building_type'=>'\uc0\u1052 \u1086 \u1073 \u1080 \u1083 \u1100 \u1085 \u1072 \u1103  \u1079 \u1072 \u1089 \u1090 \u1088 \u1086 \u1081 \u1082 \u1072 ',\
+			'zone_title'=>'\uc0\u1055 \u1088 \u1080 \u1074 \u1083 \u1077 \u1095 \u1077 \u1085 \u1080 \u1077  \u1087 \u1086 \u1082 \u1091 \u1087 \u1072 \u1090 \u1077 \u1083 \u1077 \u1081 ',\
+			'zone'=>'marketing',\
+			'status'=>'part',\
+			'slots'=>array(\
+				'0'=>array(\
+					'id'=>95,\
+					'title'=>'27 \uc0\u1072 \u1087 \u1088 \u1077 \u1083 \u1103 ',\
+					'rent_cost'=>115000,\
+					'rent_cost_format'=>'115 000 
+\f1 \uc0\u8381 
+\f0 ',\
+					'build_cost'=>NULL,\
+					'build_cost_format'=>'0 
+\f1 \uc0\u8381 
+\f0 ',\
+					'status'=>'reserved',\
+					'brand'=>array(\
+						'id'=>13,\
+						'title'=>'\uc0\u1051 -\u1055 \u1054 \u1057 \u1058 ',\
+						'site'=>'https://l-post.ru',\
+						'd_short'=>'\uc0\u1060 \u1077 \u1076 \u1077 \u1088 \u1072 \u1083 \u1100 \u1085 \u1072 \u1103  \u1083 \u1086 \u1075 \u1080 \u1089 \u1090 \u1080 \u1095 \u1077 \u1089 \u1082 \u1072 \u1103  \u1082 \u1086 \u1084 \u1087 \u1072 \u1085 \u1080 \u1103  \u1076 \u1083 \u1103  \u1073 \u1080 \u1079 \u1085 \u1077 \u1089 \u1072 . \u1054 \u1073 \u1096 \u1080 \u1088 \u1085 \u1072 \u1103  \u1089 \u1077 \u1090 \u1100  \u1055 \u1042 \u1047  \u1080  \u1089 \u1074 \u1086 \u1103  \u1082 \u1091 \u1088 \u1100 \u1077 \u1088 \u1089 \u1082 \u1072 \u1103  \u1089 \u1083 \u1091 \u1078 \u1073 \u1072 .',\
+						'logotype'=>array(\
+							'id'=>40,\
+							'url'=>'https://storage.yandexcloud.net/brand-logotypes.upgrade.st/l-post/landscape-light.svg'\
+							)\
+						),\
+					'reservation_company_name'=>'L-Post'\
+					)\
+				)\
+			),\
+		'33'=>array(\
+			'id'=>33,\
+			'number'=>'33',\
+			'area'=>'3 \uc0\u1084 ',\
+			'building_type'=>'\uc0\u1052 \u1086 \u1073 \u1080 \u1083 \u1100 \u1085 \u1072 \u1103  \u1079 \u1072 \u1089 \u1090 \u1088 \u1086 \u1081 \u1082 \u1072 ',\
+			'zone_title'=>'\uc0\u1055 \u1088 \u1080 \u1074 \u1083 \u1077 \u1095 \u1077 \u1085 \u1080 \u1077  \u1087 \u1086 \u1082 \u1091 \u1087 \u1072 \u1090 \u1077 \u1083 \u1077 \u1081 ',\
+			'zone'=>'marketing',\
+			'status'=>'part',\
+			'slots'=>array(\
+				'0'=>array(\
+					'id'=>98,\
+					'title'=>'27 \uc0\u1072 \u1087 \u1088 \u1077 \u1083 \u1103 ',\
+					'rent_cost'=>130000,\
+					'rent_cost_format'=>'130 000 
+\f1 \uc0\u8381 
+\f0 ',\
+					'build_cost'=>NULL,\
+					'build_cost_format'=>'0 
+\f1 \uc0\u8381 
+\f0 ',\
+					'status'=>'reserved',\
+					'brand'=>array(\
+						'id'=>21,\
+						'title'=>'Lenvendo',\
+						'site'=>'https://www.lenvendo.ru',\
+						'd_short'=>'Lenvendo - \uc0\u1048 \u1058 -\u1082 \u1086 \u1084 \u1087 \u1072 \u1085 \u1080 \u1103 , \u1079 \u1072 \u1085 \u1080 \u1084 \u1072 \u1102 \u1097 \u1072 \u1103 \u1089 \u1103  \u1088 \u1072 \u1079 \u1088 \u1072 \u1073 \u1086 \u1090 \u1082 \u1086 \u1081  \u1074 \u1099 \u1089 \u1086 \u1082 \u1086 \u1085 \u1072 \u1075 \u1088 \u1091 \u1078 \u1077 \u1085 \u1085 \u1099 \u1093  \u1089 \u1080 \u1089 \u1090 \u1077 \u1084  \u1080  \u1087 \u1086 \u1076 \u1076 \u1077 \u1088 \u1078 \u1082 \u1077  \u1086 \u1085 \u1083 \u1072 \u1081 \u1085 -\u1087 \u1088 \u1086 \u1077 \u1082 \u1090 \u1086 \u1074 .',\
+						'logotype'=>array(\
+							'id'=>53,\
+							'url'=>'https://storage.yandexcloud.net/brand-logotypes.upgrade.st/lenvendo/landscape-light.svg'\
+							)\
+						),\
+					'reservation_company_name'=>'Lenvendo'\
+					)\
+				)\
+			),\
+		'34'=>array(\
+			'id'=>34,\
+			'number'=>'34',\
+			'area'=>'3 \uc0\u1084 ',\
+			'building_type'=>'\uc0\u1052 \u1086 \u1073 \u1080 \u1083 \u1100 \u1085 \u1072 \u1103  \u1079 \u1072 \u1089 \u1090 \u1088 \u1086 \u1081 \u1082 \u1072 ',\
+			'zone_title'=>'\uc0\u1055 \u1088 \u1080 \u1074 \u1083 \u1077 \u1095 \u1077 \u1085 \u1080 \u1077  \u1087 \u1086 \u1082 \u1091 \u1087 \u1072 \u1090 \u1077 \u1083 \u1077 \u1081 ',\
+			'zone'=>'marketing',\
+			'status'=>'reserved',\
+			'slots'=>array(\
+				'0'=>array(\
+					'id'=>100,\
+					'title'=>'26 \uc0\u1072 \u1087 \u1088 \u1077 \u1083 \u1103 , 27 \u1072 \u1087 \u1088 \u1077 \u1083 \u1103 , 28 \u1072 \u1087 \u1088 \u1077 \u1083 \u1103 ',\
+					'rent_cost'=>130000,\
+					'rent_cost_format'=>'130 000 
+\f1 \uc0\u8381 
+\f0 ',\
+					'build_cost'=>NULL,\
+					'build_cost_format'=>'0 
+\f1 \uc0\u8381 
+\f0 ',\
+					'status'=>'reserved',\
+					'brand'=>array(\
+						'id'=>12,\
+						'title'=>'Webit',\
+						'site'=>'https://webit.ru',\
+						'd_short'=>'\uc0\u1055 \u1086 \u1083 \u1085 \u1086 \u1089 \u1077 \u1088 \u1074 \u1080 \u1089 \u1085 \u1086 \u1077  digital \u1072 \u1075 \u1077 \u1085 \u1090 \u1089 \u1090 \u1074 \u1086  Webit - 20 \u1083 \u1077 \u1090  \u1092 \u1086 \u1088 \u1084 \u1080 \u1088 \u1091 \u1077 \u1084  \u1082 \u1086 \u1084 \u1087 \u1083 \u1077 \u1082 \u1089 \u1085 \u1099 \u1081  \u1082 \u1083 \u1080 \u1077 \u1085 \u1090 \u1089 \u1082 \u1080 \u1081  \u1086 \u1087 \u1099 \u1090  \u1074  \u1094 \u1080 \u1092 \u1088 \u1086 \u1074 \u1099 \u1093  \u1082 \u1072 \u1085 \u1072 \u1083 \u1072 \u1093 .',\
+						'logotype'=>array(\
+							'id'=>39,\
+							'url'=>'https://storage.yandexcloud.net/brand-logotypes.upgrade.st/webit/landscape-light.svg'\
+							)\
+						),\
+					'reservation_company_name'=>'Webit'\
+					)\
+				)\
+			),\
+		'35'=>array(\
+			'id'=>35,\
+			'number'=>'35',\
+			'area'=>'3 \uc0\u1084 ',\
+			'building_type'=>'\uc0\u1052 \u1086 \u1073 \u1080 \u1083 \u1100 \u1085 \u1072 \u1103  \u1079 \u1072 \u1089 \u1090 \u1088 \u1086 \u1081 \u1082 \u1072 ',\
+			'zone_title'=>'\uc0\u1055 \u1088 \u1080 \u1074 \u1083 \u1077 \u1095 \u1077 \u1085 \u1080 \u1077  \u1087 \u1086 \u1082 \u1091 \u1087 \u1072 \u1090 \u1077 \u1083 \u1077 \u1081 ',\
+			'zone'=>'marketing',\
+			'status'=>'reserved',\
+			'slots'=>array(\
+				'0'=>array(\
+					'id'=>103,\
+					'title'=>'26 \uc0\u1072 \u1087 \u1088 \u1077 \u1083 \u1103 , 27 \u1072 \u1087 \u1088 \u1077 \u1083 \u1103 , 28 \u1072 \u1087 \u1088 \u1077 \u1083 \u1103 ',\
+					'rent_cost'=>130000,\
+					'rent_cost_format'=>'130 000 
+\f1 \uc0\u8381 
+\f0 ',\
+					'build_cost'=>NULL,\
+					'build_cost_format'=>'0 
+\f1 \uc0\u8381 
+\f0 ',\
+					'status'=>'reserved',\
+					'brand'=>array(\
+						'id'=>57,\
+						'title'=>'\uc0\u1071 \u1085 \u1076 \u1077 \u1082 \u1089  \u1057 \u1087 \u1083 \u1080 \u1090 ',\
+						'site'=>'https://split.yandex.ru/b2b',\
+						'd_short'=>'\uc0\u1071 \u1085 \u1076 \u1077 \u1082 \u1089  \u1057 \u1087 \u1083 \u1080 \u1090  \'97 \u1086 \u1087 \u1083 \u1072 \u1090 \u1072  \u1095 \u1072 \u1089 \u1090 \u1103 \u1084 \u1080  \u1085 \u1072  2, 4 \u1080 \u1083 \u1080  6 \u1084 \u1077 \u1089 \u1103 \u1094 \u1077 \u1074 . \u1041 \u1077 \u1079  \u1076 \u1083 \u1080 \u1085 \u1085 \u1099 \u1093  \u1072 \u1085 \u1082 \u1077 \u1090  \u1080  \u1089 \u1082 \u1088 \u1099 \u1090 \u1099 \u1093  \u1091 \u1089 \u1083 \u1086 \u1074 \u1080 \u1081 ',\
+						'logotype'=>array(\
+							'id'=>105,\
+							'url'=>'https://storage.yandexcloud.net/brand-logotypes.upgrade.st/iandeks-split/iandeks-split-landscape-light.svg?v=1681138372'\
+							)\
+						),\
+					'reservation_company_name'=>'\uc0\u1071 \u1085 \u1076 \u1077 \u1082 \u1089  \u1057 \u1087 \u1083 \u1080 \u1090 '\
+					)\
+				)\
+			),\
+		'36'=>array(\
+			'id'=>36,\
+			'number'=>'36',\
+			'area'=>'2 \uc0\u1084 ',\
+			'building_type'=>'\uc0\u1052 \u1086 \u1073 \u1080 \u1083 \u1100 \u1085 \u1072 \u1103  \u1079 \u1072 \u1089 \u1090 \u1088 \u1086 \u1081 \u1082 \u1072 ',\
+			'zone_title'=>'\uc0\u1055 \u1088 \u1080 \u1074 \u1083 \u1077 \u1095 \u1077 \u1085 \u1080 \u1077  \u1087 \u1086 \u1082 \u1091 \u1087 \u1072 \u1090 \u1077 \u1083 \u1077 \u1081 ',\
+			'zone'=>'marketing',\
+			'status'=>'part',\
+			'slots'=>array(\
+				'0'=>array(\
+					'id'=>107,\
+					'title'=>'27 \uc0\u1072 \u1087 \u1088 \u1077 \u1083 \u1103 ',\
+					'rent_cost'=>115000,\
+					'rent_cost_format'=>'115 000 
+\f1 \uc0\u8381 
+\f0 ',\
+					'build_cost'=>NULL,\
+					'build_cost_format'=>'0 
+\f1 \uc0\u8381 
+\f0 ',\
+					'status'=>'reserved',\
+					'brand'=>array(\
+						'id'=>16,\
+						'title'=>'CORE\'b7XP',\
+						'site'=>'https://core-xp.ru',\
+						'd_short'=>'\uc0\u1050 \u1086 \u1084 \u1087 \u1072 \u1085 \u1080 \u1103  \u1087 \u1086  \u1087 \u1088 \u1077 \u1076 \u1086 \u1089 \u1090 \u1072 \u1074 \u1083 \u1077 \u1085 \u1080 \u1102  \u1082 \u1086 \u1085 \u1089 \u1072 \u1083 \u1090 \u1080 \u1085 \u1075 \u1086 \u1074 \u1099 \u1093  \u1091 \u1089 \u1083 \u1091 \u1075  \u1085 \u1072  \u1088 \u1099 \u1085 \u1082 \u1077  \u1085 \u1077 \u1076 \u1074 \u1080 \u1078 \u1080 \u1084 \u1086 \u1089 \u1090 \u1080  \u1052 \u1086 \u1089 \u1082 \u1074 \u1099  \u1080  \u1088 \u1077 \u1075 \u1080 \u1086 \u1085 \u1086 \u1074  \u1056 \u1086 \u1089 \u1089 \u1080 \u1080 .',\
+						'logotype'=>array(\
+							'id'=>46,\
+							'url'=>'https://storage.yandexcloud.net/brand-logotypes.upgrade.st/corexp/landscape-light.svg'\
+							)\
+						),\
+					'reservation_company_name'=>'CORE-XP'\
+					)\
+				)\
+			),\
+		'37'=>array(\
+			'id'=>37,\
+			'number'=>'37',\
+			'area'=>'2 \uc0\u1084 ',\
+			'building_type'=>'\uc0\u1052 \u1086 \u1073 \u1080 \u1083 \u1100 \u1085 \u1072 \u1103  \u1079 \u1072 \u1089 \u1090 \u1088 \u1086 \u1081 \u1082 \u1072 ',\
+			'zone_title'=>'\uc0\u1055 \u1088 \u1080 \u1074 \u1083 \u1077 \u1095 \u1077 \u1085 \u1080 \u1077  \u1087 \u1086 \u1082 \u1091 \u1087 \u1072 \u1090 \u1077 \u1083 \u1077 \u1081 ',\
+			'zone'=>'marketing',\
+			'status'=>'part',\
+			'slots'=>array(\
+				'0'=>array(\
+					'id'=>110,\
+					'title'=>'27 \uc0\u1072 \u1087 \u1088 \u1077 \u1083 \u1103 ',\
+					'rent_cost'=>115000,\
+					'rent_cost_format'=>'115 000 
+\f1 \uc0\u8381 
+\f0 ',\
+					'build_cost'=>NULL,\
+					'build_cost_format'=>'0 
+\f1 \uc0\u8381 
+\f0 ',\
+					'status'=>'reserved',\
+					'brand'=>array(\
+						'id'=>36,\
+						'title'=>'Progressive Media',\
+						'site'=>'https://progressivemedia.ru',\
+						'd_short'=>'\uc0\u1057 \u1086 \u1079 \u1076 \u1072 \u1085 \u1080 \u1077  digital-\u1087 \u1088 \u1086 \u1077 \u1082 \u1090 \u1086 \u1074  \u1087 \u1086 \u1074 \u1099 \u1096 \u1077 \u1085 \u1085 \u1086 \u1081  \u1089 \u1083 \u1086 \u1078 \u1085 \u1086 \u1089 \u1090 \u1080 ',\
+						'logotype'=>array(\
+							'id'=>74,\
+							'url'=>'https://storage.yandexcloud.net/brand-logotypes.upgrade.st/progressive-media/landscape-light.svg'\
+							)\
+						),\
+					'reservation_company_name'=>'Progressive Media'\
+					)\
+				)\
+			),\
+		'38'=>array(\
+			'id'=>38,\
+			'number'=>'38',\
+			'area'=>NULL,\
+			'building_type'=>'\uc0\u1052 \u1086 \u1073 \u1080 \u1083 \u1100 \u1085 \u1072 \u1103  \u1079 \u1072 \u1089 \u1090 \u1088 \u1086 \u1081 \u1082 \u1072 ',\
+			'zone_title'=>'\uc0\u1055 \u1088 \u1080 \u1074 \u1083 \u1077 \u1095 \u1077 \u1085 \u1080 \u1077  \u1087 \u1086 \u1082 \u1091 \u1087 \u1072 \u1090 \u1077 \u1083 \u1077 \u1081 ',\
+			'zone'=>'marketing',\
+			'status'=>'reserved',\
+			'slots'=>array(\
+				'0'=>array(\
+					'id'=>112,\
+					'title'=>'26 \uc0\u1072 \u1087 \u1088 \u1077 \u1083 \u1103 , 27 \u1072 \u1087 \u1088 \u1077 \u1083 \u1103 , 28 \u1072 \u1087 \u1088 \u1077 \u1083 \u1103 ',\
+					'rent_cost'=>90000,\
+					'rent_cost_format'=>'90 000 
+\f1 \uc0\u8381 
+\f0 ',\
+					'build_cost'=>NULL,\
+					'build_cost_format'=>'0 
+\f1 \uc0\u8381 
+\f0 ',\
+					'status'=>'reserved',\
+					'brand'=>array(\
+						'id'=>20,\
+						'title'=>'\uc0\u1055 \u1054 \u1044 \u1045 \u1051 \u1048 ',\
+						'site'=>'https://podeli.ru',\
+						'd_short'=>'\uc0\u1057 \u1077 \u1088 \u1074 \u1080 \u1089  \u1086 \u1087 \u1083 \u1072 \u1090 \u1099  \u1087 \u1086 \u1082 \u1091 \u1087 \u1086 \u1082  \u1087 \u1086  \u1095 \u1072 \u1089 \u1090 \u1103 \u1084 ',\
+						'logotype'=>array(\
+							'id'=>52,\
+							'url'=>'https://storage.yandexcloud.net/brand-logotypes.upgrade.st/podeli/landscape-light.svg'\
+							)\
+						),\
+					'reservation_company_name'=>'\uc0\u1055 \u1086 \u1076 \u1077 \u1083 \u1080 '\
+					)\
+				)\
+			)\
+		),\
+	'list'=>array(\
+		'without'=>array(\
+			'items'=>array(\
+				'0'=>array(\
+					'company'=>'\uc0\u1044 \u1086 \u1083 \u1103 \u1084 \u1080 ',\
+					'short_description'=>'\uc0\u1057 \u1077 \u1088 \u1074 \u1080 \u1089  \u1076 \u1083 \u1103  \u1086 \u1087 \u1083 \u1072 \u1090 \u1099  \u1087 \u1086 \u1082 \u1091 \u1087 \u1086 \u1082  \u1095 \u1072 \u1089 \u1090 \u1103 \u1084 \u1080 ',\
+					'site'=>'https://dolyame.ru?utm_source=site&utm_medium=referrer&utm_campaign=upgrade-st&utm_content=urspring23',\
+					'logo'=>'https://storage.yandexcloud.net/brand-logotypes.upgrade.st/doliami/landscape-light.svg',\
+					'position'=>3,\
+					'stands'=>array(\
+						'0'=>'9',\
+						'1'=>'10'\
+						),\
+					'slots'=>array(\
+						'0'=>'27 \uc0\u1072 \u1087 \u1088 \u1077 \u1083 \u1103 ',\
+						'1'=>'28 \uc0\u1072 \u1087 \u1088 \u1077 \u1083 \u1103 '\
+						)\
+					),\
+				'1'=>array(\
+					'company'=>'\uc0\u1058 \u1080 \u1085 \u1100 \u1082 \u1086 \u1092 \u1092  \u1042 \u1099 \u1075 \u1086 \u1076 \u1072 ',\
+					'short_description'=>'\uc0\u1055 \u1072 \u1088 \u1090 \u1085 \u1077 \u1088 \u1089 \u1082 \u1080 \u1081  \u1082 \u1101 \u1096 \u1073 \u1101 \u1082  \u1074  \u1101 \u1082 \u1086 \u1089 \u1080 \u1089 \u1090 \u1077 \u1084 \u1077  \u1058 \u1080 \u1085 \u1100 \u1082 \u1086 \u1092 \u1092 ',\
+					'site'=>'',\
+					'logo'=>'https://storage.yandexcloud.net/brand-logotypes.upgrade.st/tinkoff-vygoda/landscape-light.svg',\
+					'position'=>4,\
+					'stands'=>array(\
+						'0'=>'20'\
+						),\
+					'slots'=>array(\
+						'0'=>'28 \uc0\u1072 \u1087 \u1088 \u1077 \u1083 \u1103 '\
+						)\
+					),\
+				'2'=>array(\
+					'company'=>'Diginetica',\
+					'short_description'=>'\uc0\u1059 \u1084 \u1085 \u1099 \u1081  \u1087 \u1086 \u1080 \u1089 \u1082  \u1085 \u1072  \u1089 \u1072 \u1081 \u1090 \u1077  \u1080  \u1074  \u1087 \u1088 \u1080 \u1083 \u1086 \u1078 \u1077 \u1085 \u1080 \u1080  (Sunlight, Amwine \u1080  Boombbar)',\
+					'site'=>'https://anyquery.diginetica.com?utm_source=site&utm_medium=referrer&utm_campaign=upgrade-st&utm_content=urspring23',\
+					'logo'=>'https://storage.yandexcloud.net/brand-logotypes.upgrade.st/diqiginetica/landscape-dark.svg',\
+					'position'=>7,\
+					'stands'=>array(\
+						'0'=>'20'\
+						),\
+					'slots'=>array(\
+						'0'=>'26 \uc0\u1072 \u1087 \u1088 \u1077 \u1083 \u1103 '\
+						)\
+					),\
+				'3'=>array(\
+					'company'=>'\uc0\u1057 \u1083 \u1091 \u1078 \u1073 \u1072  \u1076 \u1086 \u1089 \u1090 \u1072 \u1074 \u1082 \u1080  Dalli',\
+					'short_description'=>'Dalli \'97 \uc0\u1082 \u1091 \u1088 \u1100 \u1077 \u1088 \u1089 \u1082 \u1072 \u1103  \u1082 \u1086 \u1084 \u1087 \u1072 \u1085 \u1080 \u1103  \u1076 \u1083 \u1103  \u1080 \u1085 \u1090 \u1077 \u1088 \u1085 \u1077 \u1090 -\u1084 \u1072 \u1075 \u1072 \u1079 \u1080 \u1085 \u1086 \u1074  \u1080  \u1086 \u1084 \u1085 \u1080 \u1088 \u1080 \u1090 \u1077 \u1081 \u1083 \u1072 ',\
+					'site'=>'https://dalli-service.com?utm_source=site&utm_medium=referrer&utm_campaign=upgrade-st&utm_content=urspring23',\
+					'logo'=>'https://storage.yandexcloud.net/brand-logotypes.upgrade.st/sluzba-dostavki-dalli/landscape-light.svg',\
+					'position'=>8,\
+					'stands'=>array(\
+						'0'=>'21'\
+						),\
+					'slots'=>array(\
+						'0'=>'26 \uc0\u1072 \u1087 \u1088 \u1077 \u1083 \u1103 ',\
+						'1'=>'27 \uc0\u1072 \u1087 \u1088 \u1077 \u1083 \u1103 ',\
+						'2'=>'28 \uc0\u1072 \u1087 \u1088 \u1077 \u1083 \u1103 '\
+						)\
+					),\
+				'4'=>array(\
+					'company'=>'Upmetric',\
+					'short_description'=>'\uc0\u1054 \u1073 \u1098 \u1077 \u1076 \u1080 \u1085 \u1103 \u1077 \u1084  \u1086 \u1092 \u1092 \u1083 \u1072 \u1081 \u1085  \u1080  \u1086 \u1085 \u1083 \u1072 \u1081 \u1085  \u1076 \u1072 \u1085 \u1085 \u1099 \u1077  \u1086  \u1087 \u1086 \u1082 \u1091 \u1087 \u1082 \u1072 \u1093  \u1080  \u1087 \u1086 \u1074 \u1077 \u1076 \u1077 \u1085 \u1080 \u1080  \u1076 \u1083 \u1103  \u1101 \u1092 \u1092 \u1077 \u1082 \u1090 \u1080 \u1074 \u1085 \u1086 \u1075 \u1086  data-driven \u1084 \u1072 \u1088 \u1082 \u1077 \u1090 \u1080 \u1085 \u1075 \u1072 ',\
+					'site'=>'https://upmetric.ru?utm_source=site&utm_medium=referrer&utm_campaign=upgrade-st&utm_content=urspring23',\
+					'logo'=>'https://storage.yandexcloud.net/brand-logotypes.upgrade.st/upmetric/upmetric-landscape-light.svg?v=1681800021',\
+					'position'=>10,\
+					'stands'=>array(\
+						'0'=>'31'\
+						),\
+					'slots'=>array(\
+						'0'=>'26 \uc0\u1072 \u1087 \u1088 \u1077 \u1083 \u1103 ',\
+						'1'=>'27 \uc0\u1072 \u1087 \u1088 \u1077 \u1083 \u1103 '\
+						)\
+					),\
+				'5'=>array(\
+					'company'=>'DPD \uc0\u1074  \u1056 \u1086 \u1089 \u1089 \u1080 \u1080 ',\
+					'short_description'=>'\uc0\u1042 \u1077 \u1076 \u1091 \u1097 \u1080 \u1081  \u1086 \u1087 \u1077 \u1088 \u1072 \u1090 \u1086 \u1088  \u1101 \u1082 \u1089 \u1087 \u1088 \u1077 \u1089 \u1089 -\u1076 \u1086 \u1089 \u1090 \u1072 \u1074 \u1082 \u1080  \u1080  \u1083 \u1086 \u1075 \u1080 \u1089 \u1090 \u1080 \u1082 \u1080  \u1074  \u1056 \u1086 \u1089 \u1089 \u1080 \u1080 .',\
+					'site'=>'https://dpd.ru?utm_source=site&utm_medium=referrer&utm_campaign=upgrade-st&utm_content=urspring23',\
+					'logo'=>'https://storage.yandexcloud.net/brand-logotypes.upgrade.st/dpd-v-rossii/landscape-light.svg',\
+					'position'=>11,\
+					'stands'=>array(\
+						'0'=>'23'\
+						),\
+					'slots'=>array(\
+						'0'=>'26 \uc0\u1072 \u1087 \u1088 \u1077 \u1083 \u1103 ',\
+						'1'=>'27 \uc0\u1072 \u1087 \u1088 \u1077 \u1083 \u1103 ',\
+						'2'=>'28 \uc0\u1072 \u1087 \u1088 \u1077 \u1083 \u1103 '\
+						)\
+					),\
+				'6'=>array(\
+					'company'=>'KISLOROD',\
+					'short_description'=>'\uc0\u1055 \u1088 \u1086 \u1080 \u1079 \u1074 \u1086 \u1076 \u1089 \u1090 \u1074 \u1077 \u1085 \u1085 \u1086 \u1077  \u1072 \u1075 \u1077 \u1085 \u1090 \u1089 \u1090 \u1074 \u1086  \u1089  \u1092 \u1086 \u1082 \u1091 \u1089 \u1086 \u1084  \u1085 \u1072  \u1088 \u1072 \u1079 \u1088 \u1072 \u1073 \u1086 \u1090 \u1082 \u1091  \u1080  \u1088 \u1072 \u1079 \u1074 \u1080 \u1090 \u1080 \u1077  e\u1057 ommerce-\u1087 \u1088 \u1086 \u1077 \u1082 \u1090 \u1086 \u1074  \u1085 \u1072  \'ab1\u1057 -\u1041 \u1080 \u1090 \u1088 \u1080 \u1082 \u1089 \'bb.',\
+					'site'=>'https://o2k.ru?utm_source=site&utm_medium=referrer&utm_campaign=upgrade-st&utm_content=urspring23',\
+					'logo'=>'https://storage.yandexcloud.net/brand-logotypes.upgrade.st/kislorod/kislorod-landscape-light.svg?v=1680698633',\
+					'position'=>14,\
+					'stands'=>array(\
+						'0'=>'24'\
+						),\
+					'slots'=>array(\
+						'0'=>'27 \uc0\u1072 \u1087 \u1088 \u1077 \u1083 \u1103 ',\
+						'1'=>'28 \uc0\u1072 \u1087 \u1088 \u1077 \u1083 \u1103 '\
+						)\
+					),\
+				'7'=>array(\
+					'company'=>'Golden Duck',\
+					'short_description'=>'\uc0\u1048 \u1085 \u1074 \u1077 \u1089 \u1090 \u1080 \u1094 \u1080 \u1086 \u1085 \u1085 \u1072 \u1103  \u1082 \u1086 \u1084 \u1087 \u1072 \u1085 \u1080 \u1103  \u1089  \u1086 \u1087 \u1099 \u1090 \u1086 \u1084  \u1089 \u1086 \u1079 \u1076 \u1072 \u1085 \u1080 \u1103  \u1080  \u1088 \u1072 \u1079 \u1074 \u1080 \u1090 \u1080 \u1103  \u1087 \u1088 \u1086 \u1077 \u1082 \u1090 \u1086 \u1074 \
+\uc0\u1074  \u1086 \u1073 \u1083 \u1072 \u1089 \u1090 \u1080  e-commerce',\
+					'site'=>'https://gduck.ru?utm_source=site&utm_medium=referrer&utm_campaign=upgrade-st&utm_content=urspring23',\
+					'logo'=>'https://storage.yandexcloud.net/brand-logotypes.upgrade.st/golden-duck/landscape-light.svg',\
+					'position'=>15,\
+					'stands'=>array(\
+						'0'=>'22'\
+						),\
+					'slots'=>array(\
+						'0'=>'28 \uc0\u1072 \u1087 \u1088 \u1077 \u1083 \u1103 '\
+						)\
+					),\
+				'8'=>array(\
+					'company'=>'\uc0\u1055 \u1054 \u1044 \u1045 \u1051 \u1048 ',\
+					'short_description'=>'\uc0\u1057 \u1077 \u1088 \u1074 \u1080 \u1089  \u1086 \u1087 \u1083 \u1072 \u1090 \u1099  \u1087 \u1086 \u1082 \u1091 \u1087 \u1086 \u1082  \u1087 \u1086  \u1095 \u1072 \u1089 \u1090 \u1103 \u1084 ',\
+					'site'=>'https://podeli.ru?utm_source=site&utm_medium=referrer&utm_campaign=upgrade-st&utm_content=urspring23',\
+					'logo'=>'https://storage.yandexcloud.net/brand-logotypes.upgrade.st/podeli/landscape-light.svg',\
+					'position'=>16,\
+					'stands'=>array(\
+						'0'=>'38'\
+						),\
+					'slots'=>array(\
+						'0'=>'26 \uc0\u1072 \u1087 \u1088 \u1077 \u1083 \u1103 ',\
+						'1'=>'27 \uc0\u1072 \u1087 \u1088 \u1077 \u1083 \u1103 ',\
+						'2'=>'28 \uc0\u1072 \u1087 \u1088 \u1077 \u1083 \u1103 '\
+						)\
+					),\
+				'9'=>array(\
+					'company'=>'\uc0\u1050 \u1072 \u1082 \u1090 \u1091 \u1089 ',\
+					'short_description'=>'\uc0\u1050 \u1072 \u1082 \u1090 \u1091 \u1089  \'96 e-commerce \u1089 \u1077 \u1088 \u1074 \u1080 \u1089  \u1089  \u1096 \u1080 \u1088 \u1086 \u1082 \u1080 \u1084  \u1089 \u1087 \u1077 \u1082 \u1090 \u1088 \u1086 \u1084  \u1091 \u1089 \u1083 \u1091 \u1075  \u1074  \u1089 \u1092 \u1077 \u1088 \u1077  \u1086 \u1085 \u1083 \u1072 \u1081 \u1085  \u1090 \u1086 \u1088 \u1075 \u1086 \u1074 \u1083 \u1080 .',\
+					'site'=>'https://kak2c.ru?utm_source=site&utm_medium=referrer&utm_campaign=upgrade-st&utm_content=urspring23',\
+					'logo'=>'https://storage.yandexcloud.net/brand-logotypes.upgrade.st/kaktus/landscape-light.svg',\
+					'position'=>17,\
+					'stands'=>array(\
+						'0'=>'12',\
+						'1'=>'13'\
+						),\
+					'slots'=>array(\
+						'0'=>'28 \uc0\u1072 \u1087 \u1088 \u1077 \u1083 \u1103 '\
+						)\
+					),\
+				'10'=>array(\
+					'company'=>'\uc0\u1052 \u1077 \u1088 \u1082 \u1072 \u1090 \u1091 \u1089 ',\
+					'short_description'=>'\uc0\u1064 \u1082 \u1086 \u1083 \u1072  \u1087 \u1086  \u1084 \u1072 \u1088 \u1082 \u1077 \u1090 \u1087 \u1083 \u1077 \u1081 \u1089 \u1072 \u1084  \u1076 \u1083 \u1103  \u1089 \u1077 \u1083 \u1083 \u1077 \u1088 \u1086 \u1074 , \u1087 \u1088 \u1077 \u1076 \u1087 \u1088 \u1080 \u1085 \u1080 \u1084 \u1072 \u1090 \u1077 \u1083 \u1077 \u1081 , \u1087 \u1088 \u1086 \u1080 \u1079 \u1074 \u1086 \u1076 \u1080 \u1090 \u1077 \u1083 \u1077 \u1081 , \u1087 \u1086 \u1089 \u1090 \u1072 \u1074 \u1097 \u1080 \u1082 \u1086 \u1074  \u1080  \u1084 \u1077 \u1085 \u1077 \u1076 \u1078 \u1077 \u1088 \u1086 \u1074 ',\
+					'site'=>'https://merkatys.ru?utm_source=site&utm_medium=referrer&utm_campaign=upgrade-st&utm_content=urspring23',\
+					'logo'=>'https://storage.yandexcloud.net/brand-logotypes.upgrade.st/merkatus/landscape-light.svg',\
+					'position'=>18,\
+					'stands'=>array(\
+						'0'=>'18',\
+						'1'=>'19'\
+						),\
+					'slots'=>array(\
+						'0'=>'28 \uc0\u1072 \u1087 \u1088 \u1077 \u1083 \u1103 '\
+						)\
+					),\
+				'11'=>array(\
+					'company'=>'Speechmate',\
+					'short_description'=>'\uc0\u1040 \u1091 \u1076 \u1080 \u1086 \u1073 \u1077 \u1081 \u1076 \u1078 \
+\uc0\u1076 \u1083 \u1103  \u1088 \u1086 \u1089 \u1090 \u1072  \u1086 \u1092 \u1092 \u1083 \u1072 \u1081 \u1085  \u1087 \u1088 \u1086 \u1076 \u1072 \u1078 ',\
+					'site'=>'https://speechmate.ru?utm_source=site&utm_medium=referrer&utm_campaign=upgrade-st&utm_content=urspring23',\
+					'logo'=>'https://storage.yandexcloud.net/brand-logotypes.upgrade.st/speechmate/landscape-light.svg',\
+					'position'=>20,\
+					'stands'=>array(\
+						'0'=>'16',\
+						'1'=>'17'\
+						),\
+					'slots'=>array(\
+						'0'=>'26 \uc0\u1072 \u1087 \u1088 \u1077 \u1083 \u1103 ',\
+						'1'=>'27 \uc0\u1072 \u1087 \u1088 \u1077 \u1083 \u1103 '\
+						)\
+					),\
+				'12'=>array(\
+					'company'=>'Lenvendo',\
+					'short_description'=>'Lenvendo - \uc0\u1048 \u1058 -\u1082 \u1086 \u1084 \u1087 \u1072 \u1085 \u1080 \u1103 , \u1079 \u1072 \u1085 \u1080 \u1084 \u1072 \u1102 \u1097 \u1072 \u1103 \u1089 \u1103  \u1088 \u1072 \u1079 \u1088 \u1072 \u1073 \u1086 \u1090 \u1082 \u1086 \u1081  \u1074 \u1099 \u1089 \u1086 \u1082 \u1086 \u1085 \u1072 \u1075 \u1088 \u1091 \u1078 \u1077 \u1085 \u1085 \u1099 \u1093  \u1089 \u1080 \u1089 \u1090 \u1077 \u1084  \u1080  \u1087 \u1086 \u1076 \u1076 \u1077 \u1088 \u1078 \u1082 \u1077  \u1086 \u1085 \u1083 \u1072 \u1081 \u1085 -\u1087 \u1088 \u1086 \u1077 \u1082 \u1090 \u1086 \u1074 .',\
+					'site'=>'https://www.lenvendo.ru?utm_source=site&utm_medium=referrer&utm_campaign=upgrade-st&utm_content=urspring23',\
+					'logo'=>'https://storage.yandexcloud.net/brand-logotypes.upgrade.st/lenvendo/landscape-light.svg',\
+					'position'=>21,\
+					'stands'=>array(\
+						'0'=>'33'\
+						),\
+					'slots'=>array(\
+						'0'=>'27 \uc0\u1072 \u1087 \u1088 \u1077 \u1083 \u1103 '\
+						)\
+					),\
+				'13'=>array(\
+					'company'=>'\uc0\u1051 -\u1055 \u1054 \u1057 \u1058 ',\
+					'short_description'=>'\uc0\u1060 \u1077 \u1076 \u1077 \u1088 \u1072 \u1083 \u1100 \u1085 \u1072 \u1103  \u1083 \u1086 \u1075 \u1080 \u1089 \u1090 \u1080 \u1095 \u1077 \u1089 \u1082 \u1072 \u1103  \u1082 \u1086 \u1084 \u1087 \u1072 \u1085 \u1080 \u1103  \u1076 \u1083 \u1103  \u1073 \u1080 \u1079 \u1085 \u1077 \u1089 \u1072 . \u1054 \u1073 \u1096 \u1080 \u1088 \u1085 \u1072 \u1103  \u1089 \u1077 \u1090 \u1100  \u1055 \u1042 \u1047  \u1080  \u1089 \u1074 \u1086 \u1103  \u1082 \u1091 \u1088 \u1100 \u1077 \u1088 \u1089 \u1082 \u1072 \u1103  \u1089 \u1083 \u1091 \u1078 \u1073 \u1072 .',\
+					'site'=>'https://l-post.ru?utm_source=site&utm_medium=referrer&utm_campaign=upgrade-st&utm_content=urspring23',\
+					'logo'=>'https://storage.yandexcloud.net/brand-logotypes.upgrade.st/l-post/landscape-light.svg',\
+					'position'=>22,\
+					'stands'=>array(\
+						'0'=>'32'\
+						),\
+					'slots'=>array(\
+						'0'=>'27 \uc0\u1072 \u1087 \u1088 \u1077 \u1083 \u1103 '\
+						)\
+					),\
+				'14'=>array(\
+					'company'=>'Webit',\
+					'short_description'=>'\uc0\u1055 \u1086 \u1083 \u1085 \u1086 \u1089 \u1077 \u1088 \u1074 \u1080 \u1089 \u1085 \u1086 \u1077  digital \u1072 \u1075 \u1077 \u1085 \u1090 \u1089 \u1090 \u1074 \u1086  Webit - 20 \u1083 \u1077 \u1090  \u1092 \u1086 \u1088 \u1084 \u1080 \u1088 \u1091 \u1077 \u1084  \u1082 \u1086 \u1084 \u1087 \u1083 \u1077 \u1082 \u1089 \u1085 \u1099 \u1081  \u1082 \u1083 \u1080 \u1077 \u1085 \u1090 \u1089 \u1082 \u1080 \u1081  \u1086 \u1087 \u1099 \u1090  \u1074  \u1094 \u1080 \u1092 \u1088 \u1086 \u1074 \u1099 \u1093  \u1082 \u1072 \u1085 \u1072 \u1083 \u1072 \u1093 .',\
+					'site'=>'https://webit.ru?utm_source=site&utm_medium=referrer&utm_campaign=upgrade-st&utm_content=urspring23',\
+					'logo'=>'https://storage.yandexcloud.net/brand-logotypes.upgrade.st/webit/landscape-light.svg',\
+					'position'=>23,\
+					'stands'=>array(\
+						'0'=>'34'\
+						),\
+					'slots'=>array(\
+						'0'=>'26 \uc0\u1072 \u1087 \u1088 \u1077 \u1083 \u1103 ',\
+						'1'=>'27 \uc0\u1072 \u1087 \u1088 \u1077 \u1083 \u1103 ',\
+						'2'=>'28 \uc0\u1072 \u1087 \u1088 \u1077 \u1083 \u1103 '\
+						)\
+					),\
+				'15'=>array(\
+					'company'=>'Progressive Media',\
+					'short_description'=>'\uc0\u1057 \u1086 \u1079 \u1076 \u1072 \u1085 \u1080 \u1077  digital-\u1087 \u1088 \u1086 \u1077 \u1082 \u1090 \u1086 \u1074  \u1087 \u1086 \u1074 \u1099 \u1096 \u1077 \u1085 \u1085 \u1086 \u1081  \u1089 \u1083 \u1086 \u1078 \u1085 \u1086 \u1089 \u1090 \u1080 ',\
+					'site'=>'https://progressivemedia.ru?utm_source=site&utm_medium=referrer&utm_campaign=upgrade-st&utm_content=urspring23',\
+					'logo'=>'https://storage.yandexcloud.net/brand-logotypes.upgrade.st/progressive-media/landscape-light.svg',\
+					'position'=>26,\
+					'stands'=>array(\
+						'0'=>'37'\
+						),\
+					'slots'=>array(\
+						'0'=>'27 \uc0\u1072 \u1087 \u1088 \u1077 \u1083 \u1103 '\
+						)\
+					),\
+				'16'=>array(\
+					'company'=>'CORE\'b7XP',\
+					'short_description'=>'\uc0\u1050 \u1086 \u1084 \u1087 \u1072 \u1085 \u1080 \u1103  \u1087 \u1086  \u1087 \u1088 \u1077 \u1076 \u1086 \u1089 \u1090 \u1072 \u1074 \u1083 \u1077 \u1085 \u1080 \u1102  \u1082 \u1086 \u1085 \u1089 \u1072 \u1083 \u1090 \u1080 \u1085 \u1075 \u1086 \u1074 \u1099 \u1093  \u1091 \u1089 \u1083 \u1091 \u1075  \u1085 \u1072  \u1088 \u1099 \u1085 \u1082 \u1077  \u1085 \u1077 \u1076 \u1074 \u1080 \u1078 \u1080 \u1084 \u1086 \u1089 \u1090 \u1080  \u1052 \u1086 \u1089 \u1082 \u1074 \u1099  \u1080  \u1088 \u1077 \u1075 \u1080 \u1086 \u1085 \u1086 \u1074  \u1056 \u1086 \u1089 \u1089 \u1080 \u1080 .',\
+					'site'=>'https://core-xp.ru?utm_source=site&utm_medium=referrer&utm_campaign=upgrade-st&utm_content=urspring23',\
+					'logo'=>'https://storage.yandexcloud.net/brand-logotypes.upgrade.st/corexp/landscape-light.svg',\
+					'position'=>28,\
+					'stands'=>array(\
+						'0'=>'36'\
+						),\
+					'slots'=>array(\
+						'0'=>'27 \uc0\u1072 \u1087 \u1088 \u1077 \u1083 \u1103 '\
+						)\
+					),\
+				'17'=>array(\
+					'company'=>'\uc0\u1060 \u1040 \u1056 \u1052 \u1055 \u1056 \u1045 \u1044 ',\
+					'short_description'=>'\uc0\u1060 \u1040 \u1056 \u1052 \u1055 \u1056 \u1045 \u1044 -\u1056 \u1086 \u1089 \u1089 \u1080 \u1081 \u1089 \u1082 \u1072 \u1103  CRM-\u1087 \u1083 \u1072 \u1090 \u1092 \u1086 \u1088 \u1084 \u1072  \u1076 \u1083 \u1103  \u1088 \u1072 \u1073 \u1086 \u1090 \u1099  \u1087 \u1086 \u1083 \u1077 \u1074 \u1099 \u1093  \u1089 \u1086 \u1090 \u1088 \u1091 \u1076 \u1085 \u1080 \u1082 \u1086 \u1074  \u1092 \u1072 \u1088 \u1084 \u1072 \u1094 \u1077 \u1074 \u1090 \u1080 \u1095 \u1077 \u1089 \u1082 \u1080 \u1093  \u1082 \u1086 \u1084 \u1087 \u1072 \u1085 \u1080 \u1081 ',\
+					'site'=>'https://farmpred.ru?utm_source=site&utm_medium=referrer&utm_campaign=upgrade-st&utm_content=urspring23',\
+					'logo'=>'https://storage.yandexcloud.net/brand-logotypes.upgrade.st/farmpred/farmpred-landscape-light.png?v=1681964320',\
+					'position'=>38,\
+					'stands'=>array(\
+						'0'=>'10',\
+						'1'=>'11'\
+						),\
+					'slots'=>array(\
+						'0'=>'26 \uc0\u1072 \u1087 \u1088 \u1077 \u1083 \u1103 '\
+						)\
+					),\
+				'18'=>array(\
+					'company'=>'Garpix',\
+					'short_description'=>'\uc0\u1062 \u1077 \u1085 \u1090 \u1088 \u1072 \u1083 \u1100 \u1085 \u1099 \u1081  \u1089 \u1082 \u1083 \u1072 \u1076  - \u1087 \u1088 \u1086 \u1077 \u1082 \u1090  \u1074  \u1086 \u1073 \u1083 \u1072 \u1089 \u1090 \u1080  \u1088 \u1072 \u1079 \u1088 \u1072 \u1073 \u1086 \u1090 \u1082 \u1080  \u1055 \u1054  \u1080  \u1086 \u1073 \u1086 \u1088 \u1091 \u1076 \u1086 \u1074 \u1072 \u1085 \u1080 \u1103  \u1076 \u1083 \u1103  \u1083 \u1086 \u1075 \u1080 \u1089 \u1090 \u1080 \u1095 \u1077 \u1089 \u1082 \u1086 \u1081  \u1086 \u1090 \u1088 \u1072 \u1089 \u1083 \u1080 .',\
+					'site'=>'https://garpix.com?utm_source=site&utm_medium=referrer&utm_campaign=upgrade-st&utm_content=urspring23',\
+					'logo'=>'https://storage.yandexcloud.net/brand-logotypes.upgrade.st/garpix/garpix-landscape-light.svg?v=1680767183',\
+					'position'=>39,\
+					'stands'=>array(\
+						'0'=>'29'\
+						),\
+					'slots'=>array(\
+						'0'=>'26 \uc0\u1072 \u1087 \u1088 \u1077 \u1083 \u1103 ',\
+						'1'=>'27 \uc0\u1072 \u1087 \u1088 \u1077 \u1083 \u1103 '\
+						)\
+					),\
+				'19'=>array(\
+					'company'=>'IMSHOP',\
+					'short_description'=>'\uc0\u1050 \u1088 \u1091 \u1087 \u1085 \u1077 \u1081 \u1096 \u1072 \u1103  \u1074  \u1056 \u1086 \u1089 \u1089 \u1080 \u1080  \u1082 \u1086 \u1084 \u1072 \u1085 \u1076 \u1072  \u1101 \u1082 \u1089 \u1087 \u1077 \u1088 \u1090 \u1086 \u1074  \u1087 \u1086  \u1079 \u1072 \u1087 \u1091 \u1089 \u1082 \u1091  \u1080  \u1088 \u1072 \u1079 \u1074 \u1080 \u1090 \u1080 \u1102  \u1087 \u1088 \u1080 \u1083 \u1086 \u1078 \u1077 \u1085 \u1080 \u1081  \u1076 \u1083 \u1103  \u1088 \u1080 \u1090 \u1077 \u1081 \u1083 \u1072  \u1080  ecom-\u1072 ',\
+					'site'=>'https://imshop.io?utm_source=site&utm_medium=referrer&utm_campaign=upgrade-st&utm_content=urspring23',\
+					'logo'=>'https://storage.yandexcloud.net/brand-logotypes.upgrade.st/imshop/imshop-landscape-light.svg?v=1681462387',\
+					'position'=>10000,\
+					'stands'=>array(\
+						'0'=>'5'\
+						),\
+					'slots'=>array(\
+						'0'=>'26 \uc0\u1072 \u1087 \u1088 \u1077 \u1083 \u1103 ',\
+						'1'=>'27 \uc0\u1072 \u1087 \u1088 \u1077 \u1083 \u1103 ',\
+						'2'=>'28 \uc0\u1072 \u1087 \u1088 \u1077 \u1083 \u1103 '\
+						)\
+					),\
+				'20'=>array(\
+					'company'=>'Tinkoff ID',\
+					'short_description'=>'C\uc0\u1077 \u1088 \u1074 \u1080 \u1089  \u1076 \u1083 \u1103  \u1073 \u1099 \u1089 \u1090 \u1088 \u1086 \u1081  \u1080  \u1084 \u1072 \u1082 \u1089 \u1080 \u1084 \u1072 \u1083 \u1100 \u1085 \u1086 \u1081  \u1073 \u1077 \u1079 \u1086 \u1087 \u1072 \u1089 \u1085 \u1086 \u1081  \u1072 \u1074 \u1090 \u1086 \u1088 \u1080 \u1079 \u1072 \u1094 \u1080 \u1080  \u1080  \u1077 \u1076 \u1080 \u1085 \u1086 \u1075 \u1086  \u1074 \u1093 \u1086 \u1076 \u1072  \u1074  \u1083 \u1102 \u1073 \u1099 \u1093  \u1089 \u1077 \u1088 \u1074 \u1080 \u1089 \u1072 \u1093  \u1088 \u1091 \u1085 \u1077 \u1090 \u1072 ',\
+					'site'=>'',\
+					'logo'=>'https://storage.yandexcloud.net/brand-logotypes.upgrade.st/tinkoff-id/tinkoff-id-landscape-light.svg?v=1680793374',\
+					'position'=>10000,\
+					'stands'=>array(\
+						'0'=>'12',\
+						'1'=>'13'\
+						),\
+					'slots'=>array(\
+						'0'=>'27 \uc0\u1072 \u1087 \u1088 \u1077 \u1083 \u1103 '\
+						)\
+					),\
+				'21'=>array(\
+					'company'=>'\uc0\u1052 \u1072 \u1089 \u1090 \u1077 \u1088 \u1089 \u1082 \u1072 \u1103 ',\
+					'short_description'=>'\uc0\u1044 \u1080 \u1079 \u1072 \u1081 \u1085  \u1080  \u1087 \u1088 \u1086 \u1080 \u1079 \u1074 \u1086 \u1076 \u1089 \u1090 \u1074 \u1086  \u1091 \u1087 \u1072 \u1082 \u1086 \u1074 \u1082 \u1080  \u1080  \u1088 \u1077 \u1082 \u1083 \u1072 \u1084 \u1085 \u1099 \u1093  \u1084 \u1072 \u1090 \u1077 \u1088 \u1080 \u1072 \u1083 \u1086 \u1074 . \u1057 \u1086 \u1079 \u1076 \u1072 \u1085 \u1080 \u1077  \u1083 \u1086 \u1075 \u1086 \u1090 \u1080 \u1087 \u1072  \u1080  \u1092 \u1080 \u1088 \u1084 \u1077 \u1085 \u1085 \u1086 \u1075 \u1086  \u1089 \u1090 \u1080 \u1083 \u1103 . \u1041 \u1088 \u1077 \u1085 \u1076 \u1080 \u1085 \u1075 !',\
+					'site'=>'https://mrmsk.com?utm_source=site&utm_medium=referrer&utm_campaign=upgrade-st&utm_content=urspring23',\
+					'logo'=>'https://storage.yandexcloud.net/brand-logotypes.upgrade.st/masterskaia/masterskaia-landscape-light.svg?v=1681382409',\
+					'position'=>10000,\
+					'stands'=>array(\
+						'0'=>'14'\
+						),\
+					'slots'=>array(\
+						'0'=>'26 \uc0\u1072 \u1087 \u1088 \u1077 \u1083 \u1103 ',\
+						'1'=>'27 \uc0\u1072 \u1087 \u1088 \u1077 \u1083 \u1103 ',\
+						'2'=>'28 \uc0\u1072 \u1087 \u1088 \u1077 \u1083 \u1103 '\
+						)\
+					),\
+				'22'=>array(\
+					'company'=>'\uc0\u1040 \u1091 \u1090 \u1089 \u1086 \u1088 \u1089 \u1080 \u1085 \u1075 \u1086 \u1074 \u1099 \u1081  \u1082 \u1086 \u1085 \u1090 \u1072 \u1082 \u1090 \u1085 \u1099 \u1081  \u1094 \u1077 \u1085 \u1090 \u1088  \u1054 \u1054 \u1054  "\u1055 \u1088 \u1086 \u1089 \u1077 \u1088 \u1074 \u1080 \u1089 "',\
+					'short_description'=>'',\
+					'site'=>'',\
+					'logo'=>'https://storage.yandexcloud.net/brand-logotypes.upgrade.st/autsorsingovyi-kontaktnyi-centr-ooo-proservis/autsorsingovyi-kontaktnyi-centr-ooo-proservis-landscape-light.svg?v=1682343273',\
+					'position'=>10000,\
+					'stands'=>array(\
+						'0'=>'15'\
+						),\
+					'slots'=>array(\
+						'0'=>'27 \uc0\u1072 \u1087 \u1088 \u1077 \u1083 \u1103 '\
+						)\
+					),\
+				'23'=>array(\
+					'company'=>'Market Papa',\
+					'short_description'=>'\uc0\u1050 \u1086 \u1084 \u1087 \u1083 \u1077 \u1082 \u1089 \u1085 \u1099 \u1081  \u1080 \u1085 \u1089 \u1090 \u1088 \u1091 \u1084 \u1077 \u1085 \u1090  \u1091 \u1087 \u1088 \u1072 \u1074 \u1083 \u1077 \u1085 \u1080 \u1103  \u1088 \u1077 \u1082 \u1083 \u1072 \u1084 \u1086 \u1081  \u1080  \u1072 \u1085 \u1072 \u1083 \u1080 \u1090 \u1080 \u1082 \u1080  \u1085 \u1072  Wildberries',\
+					'site'=>'https://marketpapa.ru?utm_source=site&utm_medium=referrer&utm_campaign=upgrade-st&utm_content=urspring23',\
+					'logo'=>'https://storage.yandexcloud.net/brand-logotypes.upgrade.st/market-papa/market-papa-landscape-light.svg?v=1681285590',\
+					'position'=>10000,\
+					'stands'=>array(\
+						'0'=>'15'\
+						),\
+					'slots'=>array(\
+						'0'=>'28 \uc0\u1072 \u1087 \u1088 \u1077 \u1083 \u1103 '\
+						)\
+					),\
+				'24'=>array(\
+					'company'=>'Kokoc Group',\
+					'short_description'=>'\uc0\u1043 \u1088 \u1091 \u1087 \u1087 \u1072  \u1082 \u1086 \u1084 \u1087 \u1072 \u1085 \u1080 \u1081 , \u1086 \u1073 \u1098 \u1077 \u1076 \u1080 \u1085 \u1103 \u1102 \u1097 \u1072 \u1103  \u1072 \u1075 \u1077 \u1085 \u1090 \u1089 \u1090 \u1074 \u1072  \u1080  \u1089 \u1077 \u1088 \u1074 \u1080 \u1089 \u1099  \u1080 \u1085 \u1090 \u1077 \u1088 \u1085 \u1077 \u1090 -\u1084 \u1072 \u1088 \u1082 \u1077 \u1090 \u1080 \u1085 \u1075 \u1072 ',\
+					'site'=>'https://kokocgroup.ru?utm_source=site&utm_medium=referrer&utm_campaign=upgrade-st&utm_content=urspring23',\
+					'logo'=>'https://storage.yandexcloud.net/brand-logotypes.upgrade.st/kokoc-group/landscape-light.svg',\
+					'position'=>10000,\
+					'stands'=>array(\
+						'0'=>'19'\
+						),\
+					'slots'=>array(\
+						'0'=>'26 \uc0\u1072 \u1087 \u1088 \u1077 \u1083 \u1103 '\
+						)\
+					),\
+				'25'=>array(\
+					'company'=>'\uc0\u1058 \u1080 \u1085 \u1100 \u1082 \u1086 \u1092 \u1092  \u1050 \u1088 \u1077 \u1076 \u1080 \u1090  \u1041 \u1088 \u1086 \u1082 \u1077 \u1088 ',\
+					'short_description'=>'\uc0\u1057 \u1077 \u1088 \u1074 \u1080 \u1089  \u1088 \u1072 \u1089 \u1089 \u1088 \u1086 \u1095 \u1077 \u1082  \u1080  \u1082 \u1088 \u1077 \u1076 \u1080 \u1090 \u1086 \u1074  \u1076 \u1083 \u1103  \u1087 \u1086 \u1082 \u1091 \u1087 \u1072 \u1090 \u1077 \u1083 \u1077 \u1081  \u1076 \u1083 \u1103  \u1074 \u1089 \u1077 \u1093  \u1090 \u1080 \u1087 \u1086 \u1074  \u1073 \u1080 \u1079 \u1085 \u1077 \u1089 \u1072  \u1089  \u1095 \u1077 \u1082 \u1086 \u1084  \u1086 \u1090  3 \u1076 \u1086  5',\
+					'site'=>'https://tinkoff.ru/business/loans/?utm_source=site&utm_medium=referrer&utm_campaign=upgrade-st&utm_content=urspring23',\
+					'logo'=>'https://storage.yandexcloud.net/brand-logotypes.upgrade.st/tinkoff-kredit-broker/landscape-light.svg?v=1680533190',\
+					'position'=>10000,\
+					'stands'=>array(\
+						'0'=>'20'\
+						),\
+					'slots'=>array(\
+						'0'=>'27 \uc0\u1072 \u1087 \u1088 \u1077 \u1083 \u1103 '\
+						)\
+					),\
+				'26'=>array(\
+					'company'=>'Metacommerce',\
+					'short_description'=>'SaaS-\uc0\u1087 \u1083 \u1072 \u1090 \u1092 \u1086 \u1088 \u1084 \u1072  \u1084 \u1086 \u1085 \u1080 \u1090 \u1086 \u1088 \u1080 \u1085 \u1075 \u1072  \u1072 \u1089 \u1089 \u1086 \u1088 \u1090 \u1080 \u1084 \u1077 \u1085 \u1090 \u1072  \u1080  \u1094 \u1077 \u1085 , \u1089 \u1086 \u1073 \u1080 \u1088 \u1072 \u1077 \u1090  \u1076 \u1072 \u1085 \u1085 \u1099 \u1077  \u1086  \u1073 \u1086 \u1083 \u1077 \u1077  600 \u1084 \u1080 \u1083 \u1083 \u1080 \u1086 \u1085 \u1086 \u1074  \u1090 \u1086 \u1074 \u1072 \u1088 \u1086 \u1074  \u1074  \u1089 \u1091 \u1090 \u1082 \u1080 ',\
+					'site'=>'https://metacommerce.ru?utm_source=site&utm_medium=referrer&utm_campaign=upgrade-st&utm_content=urspring23',\
+					'logo'=>'https://storage.yandexcloud.net/brand-logotypes.upgrade.st/metacommerce/metacommerce-landscape-light.svg?v=1681285529',\
+					'position'=>10000,\
+					'stands'=>array(\
+						'0'=>'27'\
+						),\
+					'slots'=>array(\
+						'0'=>'27 \uc0\u1072 \u1087 \u1088 \u1077 \u1083 \u1103 '\
+						)\
+					),\
+				'27'=>array(\
+					'company'=>'Teleperformance',\
+					'short_description'=>'\uc0\u1050 \u1086 \u1084 \u1087 \u1072 \u1085 \u1080 \u1103 , \u1082 \u1086 \u1090 \u1086 \u1088 \u1072 \u1103  \u1087 \u1086 \u1084 \u1086 \u1075 \u1072 \u1077 \u1090  \u1073 \u1088 \u1077 \u1085 \u1076 \u1072 \u1084  \u1074 \u1079 \u1072 \u1080 \u1084 \u1086 \u1076 \u1077 \u1081 \u1089 \u1090 \u1074 \u1086 \u1074 \u1072 \u1090 \u1100  \u1089  \u1082 \u1083 \u1080 \u1077 \u1085 \u1090 \u1072 \u1084 \u1080 .',\
+					'site'=>'https://teleperformance.com?utm_source=site&utm_medium=referrer&utm_campaign=upgrade-st&utm_content=urspring23',\
+					'logo'=>'https://storage.yandexcloud.net/brand-logotypes.upgrade.st/teleperformance/teleperformance-landscape-light.svg?v=1681130428',\
+					'position'=>10000,\
+					'stands'=>array(\
+						'0'=>'28'\
+						),\
+					'slots'=>array(\
+						'0'=>'26 \uc0\u1072 \u1087 \u1088 \u1077 \u1083 \u1103 ',\
+						'1'=>'27 \uc0\u1072 \u1087 \u1088 \u1077 \u1083 \u1103 ',\
+						'2'=>'28 \uc0\u1072 \u1087 \u1088 \u1077 \u1083 \u1103 '\
+						)\
+					),\
+				'28'=>array(\
+					'company'=>'\uc0\u1071 \u1085 \u1076 \u1077 \u1082 \u1089  \u1057 \u1087 \u1083 \u1080 \u1090 ',\
+					'short_description'=>'\uc0\u1071 \u1085 \u1076 \u1077 \u1082 \u1089  \u1057 \u1087 \u1083 \u1080 \u1090  \'97 \u1086 \u1087 \u1083 \u1072 \u1090 \u1072  \u1095 \u1072 \u1089 \u1090 \u1103 \u1084 \u1080  \u1085 \u1072  2, 4 \u1080 \u1083 \u1080  6 \u1084 \u1077 \u1089 \u1103 \u1094 \u1077 \u1074 . \u1041 \u1077 \u1079  \u1076 \u1083 \u1080 \u1085 \u1085 \u1099 \u1093  \u1072 \u1085 \u1082 \u1077 \u1090  \u1080  \u1089 \u1082 \u1088 \u1099 \u1090 \u1099 \u1093  \u1091 \u1089 \u1083 \u1086 \u1074 \u1080 \u1081 ',\
+					'site'=>'https://split.yandex.ru/b2b?utm_source=site&utm_medium=referrer&utm_campaign=upgrade-st&utm_content=urspring23',\
+					'logo'=>'https://storage.yandexcloud.net/brand-logotypes.upgrade.st/iandeks-split/iandeks-split-landscape-light.svg?v=1681138372',\
+					'position'=>10000,\
+					'stands'=>array(\
+						'0'=>'35'\
+						),\
+					'slots'=>array(\
+						'0'=>'26 \uc0\u1072 \u1087 \u1088 \u1077 \u1083 \u1103 ',\
+						'1'=>'27 \uc0\u1072 \u1087 \u1088 \u1077 \u1083 \u1103 ',\
+						'2'=>'28 \uc0\u1072 \u1087 \u1088 \u1077 \u1083 \u1103 '\
+						)\
+					)\
+				),\
+			'title'=>'\uc0\u1055 \u1088 \u1080 \u1074 \u1083 \u1077 \u1095 \u1077 \u1085 \u1080 \u1077  \u1087 \u1086 \u1082 \u1091 \u1087 \u1072 \u1090 \u1077 \u1083 \u1077 \u1081 '\
+			)\
+		)\
+	)}
